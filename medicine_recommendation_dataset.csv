@@ -1,0 +1,1011 @@
+Medicine Name,Disease,Dosage Form,Classification,Prescription,Description,Injection,Price,Category,Age
+Aspirin,Pain,Inhaler,Antihistamine,Not Required,Reduces fever,No,190.49,Controlled Substance,Child
+Aspirin,Blood Pressure,Cream,ACE inhibitor,Required,Used for treating infections,No,228.79,Prescription,Senior
+Aspirin,Allergy,Tablet,Proton Pump Inhibitor,Required,Alleviates allergies,Yes,483.85,Prescription,Child
+Metformin,Diabetes,Inhaler,ACE inhibitor,Required,Reduces fever,Yes,123.67,Controlled Substance,Adult
+Aspirin,Infection,Injection,Statin,Required,Reduces fever,No,443.59,Over the Counter,Senior
+Amoxicillin,Infection,Gel,Antipyretic,Required,Alleviates allergies,No,331.2,Over the Counter,Adult
+Cetirizine,Acidity,Syrup,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,17.13,Controlled Substance,Senior
+Omeprazole,Diabetes,Gel,Antipyretic,Required,Lowers cholesterol,No,351.45,Controlled Substance,Child
+Lisinopril,Allergy,Injection,Antihistamine,Not Required,Used for pain relief,Yes,430.82,Controlled Substance,Child
+Atorvastatin,Allergy,Inhaler,ACE inhibitor,Not Required,Lowers cholesterol,No,293.4,Prescription,Senior
+Omeprazole,Diabetes,Injection,Antihistamine,Not Required,Lowers cholesterol,No,102.92,Prescription,Child
+Simvastatin,Acidity,Syrup,Proton Pump Inhibitor,Required,Used for treating infections,No,480.48,Controlled Substance,Senior
+Ibuprofen,Pain,Capsule,Proton Pump Inhibitor,Required,Used for treating infections,No,143.88,Prescription,Senior
+Cetirizine,Cholesterol,Gel,Antibiotic,Not Required,Controls blood pressure,Yes,142.36,Prescription,Senior
+Paracetamol,Infection,Gel,Antihistamine,Not Required,Used for treating infections,No,280.06,Controlled Substance,Adult
+Atorvastatin,Acidity,Injection,Analgesic,Not Required,Used for treating infections,Yes,402.96,Over the Counter,Child
+Aspirin,Allergy,Syrup,Statin,Required,Controls blood pressure,Yes,358.01,Controlled Substance,Child
+Paracetamol,Cholesterol,Drops,ACE inhibitor,Not Required,Controls blood pressure,No,496.92,Controlled Substance,Child
+Aspirin,Cholesterol,Injection,Analgesic,Required,Used for pain relief,No,203.9,Controlled Substance,Child
+Lisinopril,Diabetes,Cream,Antipyretic,Not Required,Controls blood pressure,No,69.52,Over the Counter,Child
+Lisinopril,Diabetes,Inhaler,Proton Pump Inhibitor,Not Required,Used for pain relief,No,167.67,Over the Counter,Senior
+Amoxicillin,Cholesterol,Injection,Analgesic,Required,Used for treating infections,No,322.93,Over the Counter,Adult
+Simvastatin,Cholesterol,Inhaler,Antipyretic,Not Required,Used for pain relief,Yes,213.49,Controlled Substance,Adult
+Ibuprofen,Cholesterol,Inhaler,Statin,Required,Used for treating infections,Yes,132.11,Over the Counter,Adult
+Paracetamol,Allergy,Gel,Antihistamine,Not Required,Used for pain relief,Yes,499.04,Over the Counter,Child
+Ibuprofen,Pain,Drops,Analgesic,Required,Controls blood pressure,Yes,113.3,Controlled Substance,Adult
+Aspirin,Diabetes,Inhaler,Antihistamine,Required,Reduces fever,No,119.86,Over the Counter,Child
+Cetirizine,Cholesterol,Syrup,Antihistamine,Required,Controls blood pressure,Yes,138.78,Controlled Substance,Adult
+Aspirin,Heart Disease,Tablet,Antipyretic,Not Required,Lowers cholesterol,No,355.7,Prescription,Child
+Cetirizine,Diabetes,Drops,Antibiotic,Required,Lowers cholesterol,Yes,192.12,Controlled Substance,Adult
+Simvastatin,Heart Disease,Syrup,Statin,Required,Controls blood pressure,No,494.15,Prescription,Senior
+Omeprazole,Cholesterol,Capsule,Antipyretic,Not Required,Used for pain relief,No,197.79,Controlled Substance,Adult
+Omeprazole,Infection,Gel,Analgesic,Not Required,Lowers cholesterol,Yes,119.85,Over the Counter,Adult
+Simvastatin,Asthma,Injection,ACE inhibitor,Required,Used for pain relief,No,137.68,Controlled Substance,Child
+Omeprazole,Blood Pressure,Cream,Antibiotic,Not Required,Lowers cholesterol,No,254.0,Over the Counter,Child
+Paracetamol,Pain,Gel,Analgesic,Required,Reduces fever,Yes,391.92,Controlled Substance,Child
+Aspirin,Blood Pressure,Drops,Antipyretic,Required,Reduces fever,Yes,148.73,Over the Counter,Senior
+Lisinopril,Heart Disease,Injection,Analgesic,Not Required,Used for pain relief,No,31.66,Prescription,Child
+Simvastatin,Diabetes,Capsule,Proton Pump Inhibitor,Required,Reduces fever,No,400.89,Prescription,Adult
+Paracetamol,Allergy,Gel,Antibiotic,Not Required,Used for treating infections,Yes,266.55,Controlled Substance,Child
+Metformin,Acidity,Gel,Proton Pump Inhibitor,Required,Used for pain relief,No,70.28,Controlled Substance,Senior
+Metformin,Cholesterol,Cream,Analgesic,Not Required,Controls blood pressure,Yes,203.62,Controlled Substance,Child
+Simvastatin,Diabetes,Gel,Analgesic,Not Required,Lowers cholesterol,No,338.27,Controlled Substance,Adult
+Metformin,Acidity,Syrup,Statin,Not Required,Alleviates allergies,Yes,475.5,Controlled Substance,Adult
+Aspirin,Asthma,Injection,Proton Pump Inhibitor,Required,Controls blood pressure,No,56.13,Over the Counter,Adult
+Amoxicillin,Pain,Drops,ACE inhibitor,Not Required,Reduces fever,No,498.69,Controlled Substance,Adult
+Paracetamol,Diabetes,Cream,Antipyretic,Not Required,Reduces fever,Yes,85.03,Over the Counter,Adult
+Ibuprofen,Allergy,Tablet,Proton Pump Inhibitor,Not Required,Alleviates allergies,Yes,7.33,Over the Counter,Adult
+Paracetamol,Cholesterol,Gel,Antipyretic,Required,Alleviates allergies,No,232.08,Controlled Substance,Child
+Amoxicillin,Allergy,Tablet,Antihistamine,Not Required,Used for pain relief,No,491.85,Controlled Substance,Child
+Paracetamol,Acidity,Gel,Proton Pump Inhibitor,Not Required,Alleviates allergies,No,324.25,Over the Counter,Adult
+Amoxicillin,Asthma,Inhaler,ACE inhibitor,Not Required,Controls blood pressure,No,313.97,Controlled Substance,Adult
+Paracetamol,Heart Disease,Gel,Proton Pump Inhibitor,Required,Used for treating infections,No,277.62,Controlled Substance,Adult
+Ibuprofen,Fever,Capsule,Antipyretic,Not Required,Used for treating infections,Yes,319.88,Prescription,Senior
+Ibuprofen,Cholesterol,Cream,Antihistamine,Not Required,Reduces fever,No,258.72,Over the Counter,Adult
+Aspirin,Fever,Cream,Antihistamine,Required,Reduces fever,No,184.63,Prescription,Child
+Lisinopril,Acidity,Tablet,Analgesic,Required,Controls blood pressure,Yes,452.68,Prescription,Senior
+Cetirizine,Diabetes,Gel,Analgesic,Not Required,Reduces fever,No,303.05,Prescription,Senior
+Paracetamol,Heart Disease,Cream,Antipyretic,Required,Lowers cholesterol,No,202.88,Over the Counter,Senior
+Metformin,Heart Disease,Syrup,Statin,Not Required,Controls blood pressure,No,292.04,Over the Counter,Child
+Paracetamol,Cholesterol,Capsule,Antibiotic,Not Required,Used for pain relief,Yes,385.62,Controlled Substance,Senior
+Amoxicillin,Heart Disease,Injection,Statin,Required,Reduces fever,Yes,193.87,Prescription,Adult
+Ibuprofen,Asthma,Cream,Antihistamine,Required,Used for treating infections,No,247.22,Prescription,Child
+Aspirin,Fever,Capsule,Antihistamine,Not Required,Used for pain relief,No,89.41,Over the Counter,Child
+Aspirin,Pain,Drops,Antihistamine,Not Required,Reduces fever,Yes,435.99,Controlled Substance,Adult
+Simvastatin,Asthma,Gel,Proton Pump Inhibitor,Not Required,Used for pain relief,Yes,220.88,Over the Counter,Child
+Simvastatin,Asthma,Syrup,Analgesic,Required,Used for pain relief,No,103.51,Controlled Substance,Senior
+Ibuprofen,Blood Pressure,Inhaler,Statin,Required,Reduces fever,No,109.35,Over the Counter,Adult
+Atorvastatin,Infection,Cream,ACE inhibitor,Not Required,Alleviates allergies,Yes,89.94,Over the Counter,Adult
+Lisinopril,Asthma,Tablet,Statin,Not Required,Alleviates allergies,No,18.47,Controlled Substance,Senior
+Ibuprofen,Acidity,Gel,Antihistamine,Required,Alleviates allergies,Yes,75.17,Controlled Substance,Adult
+Simvastatin,Blood Pressure,Injection,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,292.36,Prescription,Senior
+Ibuprofen,Fever,Tablet,ACE inhibitor,Not Required,Reduces fever,Yes,434.07,Controlled Substance,Child
+Cetirizine,Infection,Syrup,Antipyretic,Required,Used for pain relief,No,277.54,Prescription,Child
+Aspirin,Infection,Gel,Antihistamine,Required,Reduces fever,Yes,47.62,Over the Counter,Adult
+Paracetamol,Diabetes,Cream,Proton Pump Inhibitor,Not Required,Used for pain relief,Yes,418.79,Prescription,Adult
+Lisinopril,Allergy,Cream,Antibiotic,Not Required,Used for treating infections,No,241.17,Prescription,Adult
+Lisinopril,Infection,Tablet,Antihistamine,Required,Reduces fever,Yes,371.24,Controlled Substance,Child
+Cetirizine,Allergy,Capsule,ACE inhibitor,Required,Used for treating infections,Yes,74.53,Controlled Substance,Child
+Cetirizine,Pain,Capsule,Analgesic,Not Required,Lowers cholesterol,Yes,450.02,Over the Counter,Senior
+Aspirin,Infection,Inhaler,Statin,Not Required,Controls blood pressure,No,420.42,Controlled Substance,Adult
+Paracetamol,Fever,Gel,Statin,Required,Reduces fever,Yes,262.36,Prescription,Senior
+Ibuprofen,Acidity,Capsule,Antibiotic,Required,Reduces fever,No,357.81,Controlled Substance,Senior
+Amoxicillin,Pain,Inhaler,ACE inhibitor,Not Required,Used for pain relief,No,219.74,Controlled Substance,Senior
+Simvastatin,Blood Pressure,Drops,Antibiotic,Not Required,Controls blood pressure,Yes,98.27,Over the Counter,Child
+Cetirizine,Asthma,Syrup,Antipyretic,Required,Used for treating infections,No,377.8,Prescription,Adult
+Paracetamol,Diabetes,Drops,Antipyretic,Not Required,Used for pain relief,No,174.77,Over the Counter,Child
+Cetirizine,Asthma,Injection,Antibiotic,Not Required,Alleviates allergies,Yes,149.47,Over the Counter,Senior
+Ibuprofen,Asthma,Injection,Proton Pump Inhibitor,Not Required,Alleviates allergies,No,289.06,Over the Counter,Adult
+Ibuprofen,Pain,Drops,Analgesic,Not Required,Lowers cholesterol,Yes,416.63,Controlled Substance,Child
+Paracetamol,Diabetes,Cream,Analgesic,Not Required,Controls blood pressure,Yes,41.72,Prescription,Adult
+Omeprazole,Cholesterol,Tablet,Statin,Not Required,Used for treating infections,No,324.98,Over the Counter,Child
+Omeprazole,Asthma,Tablet,Analgesic,Required,Reduces fever,No,87.14,Prescription,Child
+Cetirizine,Allergy,Syrup,Analgesic,Required,Controls blood pressure,No,457.87,Controlled Substance,Adult
+Lisinopril,Pain,Capsule,Antibiotic,Required,Reduces fever,Yes,313.27,Prescription,Adult
+Cetirizine,Blood Pressure,Inhaler,Analgesic,Not Required,Lowers cholesterol,No,356.46,Over the Counter,Senior
+Amoxicillin,Allergy,Tablet,ACE inhibitor,Not Required,Lowers cholesterol,Yes,66.16,Prescription,Senior
+Simvastatin,Cholesterol,Drops,ACE inhibitor,Required,Lowers cholesterol,Yes,149.49,Controlled Substance,Child
+Amoxicillin,Heart Disease,Tablet,Statin,Required,Reduces fever,Yes,68.26,Prescription,Senior
+Aspirin,Allergy,Injection,ACE inhibitor,Not Required,Used for treating infections,Yes,272.27,Over the Counter,Senior
+Paracetamol,Heart Disease,Tablet,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,138.62,Over the Counter,Child
+Lisinopril,Heart Disease,Drops,Analgesic,Not Required,Reduces fever,No,265.9,Over the Counter,Adult
+Lisinopril,Cholesterol,Gel,ACE inhibitor,Not Required,Used for pain relief,No,135.51,Controlled Substance,Adult
+Ibuprofen,Blood Pressure,Tablet,Analgesic,Required,Controls blood pressure,No,250.78,Over the Counter,Senior
+Metformin,Blood Pressure,Drops,ACE inhibitor,Not Required,Controls blood pressure,Yes,103.56,Prescription,Adult
+Omeprazole,Heart Disease,Cream,Antipyretic,Required,Reduces fever,Yes,103.7,Controlled Substance,Senior
+Atorvastatin,Infection,Tablet,Antihistamine,Not Required,Used for treating infections,Yes,161.12,Over the Counter,Adult
+Omeprazole,Heart Disease,Gel,Antibiotic,Not Required,Alleviates allergies,Yes,392.18,Over the Counter,Adult
+Ibuprofen,Pain,Gel,Statin,Not Required,Alleviates allergies,No,250.04,Prescription,Adult
+Atorvastatin,Blood Pressure,Tablet,Antibiotic,Not Required,Used for treating infections,Yes,33.79,Controlled Substance,Child
+Cetirizine,Allergy,Drops,Proton Pump Inhibitor,Required,Used for pain relief,Yes,190.46,Prescription,Senior
+Cetirizine,Acidity,Capsule,Proton Pump Inhibitor,Required,Controls blood pressure,No,411.46,Prescription,Child
+Omeprazole,Heart Disease,Inhaler,Antipyretic,Not Required,Reduces fever,No,175.07,Prescription,Child
+Lisinopril,Heart Disease,Inhaler,Statin,Required,Lowers cholesterol,Yes,117.26,Over the Counter,Adult
+Paracetamol,Cholesterol,Syrup,Antihistamine,Required,Alleviates allergies,Yes,392.0,Controlled Substance,Senior
+Metformin,Diabetes,Tablet,Analgesic,Not Required,Lowers cholesterol,No,103.42,Over the Counter,Senior
+Omeprazole,Infection,Cream,Antibiotic,Required,Reduces fever,No,419.21,Controlled Substance,Adult
+Lisinopril,Cholesterol,Injection,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,163.31,Controlled Substance,Senior
+Aspirin,Diabetes,Cream,ACE inhibitor,Not Required,Reduces fever,No,219.95,Controlled Substance,Senior
+Cetirizine,Infection,Inhaler,Antipyretic,Not Required,Controls blood pressure,Yes,38.43,Over the Counter,Adult
+Metformin,Allergy,Injection,Statin,Required,Used for pain relief,No,121.39,Over the Counter,Adult
+Simvastatin,Diabetes,Gel,Antihistamine,Required,Used for pain relief,Yes,124.98,Over the Counter,Adult
+Cetirizine,Allergy,Drops,Antipyretic,Required,Used for pain relief,No,18.6,Controlled Substance,Child
+Cetirizine,Diabetes,Inhaler,Antihistamine,Not Required,Used for pain relief,Yes,24.42,Over the Counter,Child
+Aspirin,Heart Disease,Tablet,Antibiotic,Not Required,Used for pain relief,Yes,353.73,Prescription,Child
+Amoxicillin,Diabetes,Drops,Antipyretic,Not Required,Used for pain relief,Yes,21.75,Over the Counter,Senior
+Metformin,Asthma,Injection,Antibiotic,Not Required,Controls blood pressure,Yes,202.2,Controlled Substance,Senior
+Paracetamol,Heart Disease,Inhaler,Antihistamine,Not Required,Used for treating infections,No,477.13,Prescription,Senior
+Lisinopril,Heart Disease,Capsule,Antihistamine,Not Required,Used for pain relief,Yes,467.35,Over the Counter,Child
+Cetirizine,Diabetes,Injection,Antibiotic,Not Required,Reduces fever,No,291.84,Prescription,Senior
+Metformin,Allergy,Gel,ACE inhibitor,Not Required,Reduces fever,Yes,322.66,Prescription,Senior
+Amoxicillin,Acidity,Inhaler,Statin,Required,Alleviates allergies,Yes,163.36,Controlled Substance,Adult
+Cetirizine,Infection,Injection,Analgesic,Required,Used for pain relief,No,93.89,Over the Counter,Child
+Omeprazole,Infection,Capsule,Statin,Not Required,Controls blood pressure,No,283.54,Controlled Substance,Child
+Amoxicillin,Blood Pressure,Drops,Analgesic,Not Required,Lowers cholesterol,No,466.8,Controlled Substance,Senior
+Simvastatin,Pain,Capsule,Proton Pump Inhibitor,Not Required,Used for treating infections,No,430.23,Over the Counter,Child
+Atorvastatin,Asthma,Tablet,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,484.66,Over the Counter,Senior
+Aspirin,Asthma,Drops,Antibiotic,Not Required,Controls blood pressure,No,19.16,Over the Counter,Senior
+Ibuprofen,Heart Disease,Drops,Statin,Required,Controls blood pressure,Yes,244.95,Controlled Substance,Adult
+Metformin,Acidity,Cream,Statin,Not Required,Used for treating infections,Yes,400.18,Over the Counter,Child
+Metformin,Allergy,Inhaler,Antipyretic,Not Required,Used for pain relief,Yes,203.62,Over the Counter,Senior
+Amoxicillin,Allergy,Gel,Antipyretic,Not Required,Alleviates allergies,No,266.32,Over the Counter,Senior
+Omeprazole,Blood Pressure,Capsule,Antihistamine,Required,Used for pain relief,Yes,189.02,Over the Counter,Child
+Simvastatin,Allergy,Gel,Antipyretic,Required,Controls blood pressure,No,28.3,Controlled Substance,Adult
+Metformin,Diabetes,Gel,Antibiotic,Not Required,Lowers cholesterol,No,264.63,Controlled Substance,Adult
+Ibuprofen,Pain,Tablet,Analgesic,Required,Used for treating infections,No,152.22,Controlled Substance,Senior
+Amoxicillin,Acidity,Drops,Analgesic,Not Required,Lowers cholesterol,Yes,89.53,Prescription,Child
+Ibuprofen,Allergy,Capsule,Antihistamine,Required,Controls blood pressure,No,61.72,Prescription,Senior
+Lisinopril,Cholesterol,Inhaler,Analgesic,Required,Alleviates allergies,Yes,205.09,Prescription,Child
+Paracetamol,Acidity,Inhaler,Analgesic,Not Required,Reduces fever,No,424.67,Over the Counter,Adult
+Simvastatin,Heart Disease,Syrup,Antibiotic,Not Required,Controls blood pressure,Yes,449.69,Over the Counter,Adult
+Aspirin,Acidity,Injection,Statin,Not Required,Used for pain relief,Yes,249.08,Controlled Substance,Child
+Omeprazole,Asthma,Capsule,Antihistamine,Required,Used for treating infections,Yes,448.25,Controlled Substance,Senior
+Atorvastatin,Acidity,Capsule,Antibiotic,Required,Lowers cholesterol,No,68.27,Over the Counter,Child
+Atorvastatin,Acidity,Capsule,ACE inhibitor,Not Required,Used for treating infections,No,376.52,Prescription,Adult
+Aspirin,Blood Pressure,Injection,Antihistamine,Required,Lowers cholesterol,No,283.01,Controlled Substance,Adult
+Cetirizine,Fever,Gel,Antipyretic,Required,Alleviates allergies,No,113.07,Over the Counter,Senior
+Amoxicillin,Acidity,Tablet,Antihistamine,Not Required,Used for pain relief,Yes,249.0,Over the Counter,Adult
+Lisinopril,Allergy,Tablet,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,265.88,Controlled Substance,Adult
+Amoxicillin,Heart Disease,Drops,Analgesic,Required,Reduces fever,No,263.2,Prescription,Child
+Lisinopril,Diabetes,Drops,Statin,Required,Used for pain relief,Yes,239.45,Over the Counter,Senior
+Simvastatin,Blood Pressure,Cream,Analgesic,Not Required,Reduces fever,No,85.59,Controlled Substance,Adult
+Lisinopril,Asthma,Tablet,Statin,Not Required,Controls blood pressure,Yes,414.74,Controlled Substance,Child
+Aspirin,Cholesterol,Inhaler,Antihistamine,Not Required,Alleviates allergies,No,179.56,Controlled Substance,Adult
+Simvastatin,Cholesterol,Injection,Antipyretic,Not Required,Reduces fever,No,145.93,Over the Counter,Child
+Ibuprofen,Fever,Tablet,Statin,Required,Controls blood pressure,No,175.5,Prescription,Child
+Simvastatin,Heart Disease,Gel,ACE inhibitor,Not Required,Reduces fever,Yes,185.45,Prescription,Child
+Omeprazole,Asthma,Gel,Statin,Not Required,Lowers cholesterol,Yes,431.96,Prescription,Adult
+Paracetamol,Infection,Gel,Analgesic,Required,Used for pain relief,Yes,32.99,Prescription,Child
+Aspirin,Heart Disease,Injection,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,157.93,Over the Counter,Senior
+Ibuprofen,Cholesterol,Gel,Analgesic,Required,Reduces fever,Yes,43.2,Over the Counter,Adult
+Omeprazole,Asthma,Drops,Analgesic,Not Required,Lowers cholesterol,No,313.71,Over the Counter,Child
+Paracetamol,Allergy,Drops,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,166.78,Controlled Substance,Child
+Lisinopril,Asthma,Capsule,Antihistamine,Not Required,Controls blood pressure,No,326.69,Over the Counter,Senior
+Simvastatin,Blood Pressure,Inhaler,Antipyretic,Required,Reduces fever,Yes,391.62,Controlled Substance,Child
+Amoxicillin,Diabetes,Tablet,Analgesic,Required,Alleviates allergies,No,22.58,Over the Counter,Adult
+Metformin,Asthma,Cream,Antipyretic,Required,Alleviates allergies,No,234.27,Over the Counter,Senior
+Aspirin,Heart Disease,Inhaler,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,328.74,Over the Counter,Child
+Metformin,Blood Pressure,Capsule,Proton Pump Inhibitor,Not Required,Reduces fever,No,372.6,Over the Counter,Senior
+Cetirizine,Blood Pressure,Tablet,Analgesic,Not Required,Used for treating infections,No,212.85,Prescription,Child
+Paracetamol,Blood Pressure,Capsule,ACE inhibitor,Not Required,Reduces fever,Yes,170.69,Controlled Substance,Adult
+Atorvastatin,Pain,Inhaler,Antihistamine,Required,Used for treating infections,Yes,152.06,Controlled Substance,Adult
+Paracetamol,Acidity,Injection,Statin,Not Required,Controls blood pressure,Yes,384.88,Controlled Substance,Senior
+Omeprazole,Fever,Gel,Statin,Not Required,Controls blood pressure,No,167.41,Controlled Substance,Adult
+Lisinopril,Cholesterol,Capsule,Antibiotic,Not Required,Lowers cholesterol,No,437.38,Over the Counter,Adult
+Atorvastatin,Acidity,Syrup,ACE inhibitor,Not Required,Controls blood pressure,Yes,128.94,Over the Counter,Child
+Amoxicillin,Heart Disease,Inhaler,Antibiotic,Required,Reduces fever,No,201.23,Prescription,Adult
+Lisinopril,Pain,Gel,Statin,Not Required,Used for pain relief,Yes,82.04,Over the Counter,Child
+Cetirizine,Asthma,Tablet,Antibiotic,Not Required,Used for treating infections,No,367.41,Prescription,Adult
+Cetirizine,Acidity,Capsule,ACE inhibitor,Required,Lowers cholesterol,No,498.74,Controlled Substance,Child
+Paracetamol,Heart Disease,Gel,Analgesic,Required,Used for pain relief,Yes,230.48,Controlled Substance,Adult
+Paracetamol,Fever,Capsule,ACE inhibitor,Not Required,Reduces fever,Yes,429.98,Controlled Substance,Adult
+Paracetamol,Asthma,Syrup,ACE inhibitor,Not Required,Controls blood pressure,No,427.23,Prescription,Child
+Paracetamol,Pain,Syrup,Analgesic,Required,Controls blood pressure,No,207.6,Over the Counter,Child
+Ibuprofen,Heart Disease,Drops,ACE inhibitor,Required,Used for treating infections,No,415.02,Controlled Substance,Adult
+Lisinopril,Heart Disease,Inhaler,Analgesic,Required,Reduces fever,Yes,356.17,Over the Counter,Adult
+Atorvastatin,Acidity,Drops,Antihistamine,Required,Lowers cholesterol,No,43.36,Over the Counter,Senior
+Simvastatin,Acidity,Syrup,Analgesic,Required,Controls blood pressure,No,35.31,Controlled Substance,Child
+Paracetamol,Diabetes,Cream,ACE inhibitor,Not Required,Controls blood pressure,No,471.19,Prescription,Child
+Ibuprofen,Heart Disease,Injection,Proton Pump Inhibitor,Not Required,Reduces fever,Yes,395.21,Over the Counter,Child
+Lisinopril,Pain,Syrup,Statin,Required,Used for treating infections,No,418.72,Prescription,Senior
+Ibuprofen,Blood Pressure,Gel,Statin,Not Required,Controls blood pressure,Yes,383.09,Controlled Substance,Senior
+Metformin,Diabetes,Gel,ACE inhibitor,Required,Reduces fever,Yes,85.27,Prescription,Child
+Simvastatin,Allergy,Capsule,Antipyretic,Not Required,Reduces fever,No,222.43,Prescription,Senior
+Ibuprofen,Infection,Syrup,ACE inhibitor,Not Required,Used for pain relief,Yes,129.81,Prescription,Adult
+Cetirizine,Allergy,Drops,Statin,Required,Used for treating infections,Yes,375.41,Controlled Substance,Child
+Amoxicillin,Infection,Injection,Antibiotic,Required,Controls blood pressure,Yes,213.44,Prescription,Senior
+Omeprazole,Blood Pressure,Capsule,Statin,Required,Alleviates allergies,Yes,291.68,Over the Counter,Child
+Lisinopril,Blood Pressure,Capsule,Antibiotic,Not Required,Controls blood pressure,No,54.84,Prescription,Child
+Omeprazole,Asthma,Cream,Antipyretic,Required,Used for treating infections,Yes,451.14,Over the Counter,Senior
+Lisinopril,Asthma,Syrup,Antipyretic,Not Required,Alleviates allergies,No,481.32,Prescription,Adult
+Ibuprofen,Cholesterol,Cream,Antibiotic,Required,Alleviates allergies,No,197.76,Prescription,Senior
+Atorvastatin,Allergy,Drops,Proton Pump Inhibitor,Not Required,Used for treating infections,No,480.44,Controlled Substance,Adult
+Cetirizine,Cholesterol,Tablet,Statin,Not Required,Used for treating infections,No,453.25,Controlled Substance,Adult
+Ibuprofen,Asthma,Gel,Proton Pump Inhibitor,Required,Reduces fever,No,131.2,Controlled Substance,Senior
+Aspirin,Pain,Inhaler,Antibiotic,Not Required,Used for pain relief,Yes,77.53,Controlled Substance,Child
+Paracetamol,Allergy,Tablet,Antihistamine,Required,Controls blood pressure,No,412.55,Controlled Substance,Child
+Cetirizine,Asthma,Injection,Proton Pump Inhibitor,Not Required,Lowers cholesterol,Yes,496.58,Controlled Substance,Child
+Paracetamol,Infection,Capsule,Antihistamine,Not Required,Used for treating infections,Yes,105.18,Over the Counter,Adult
+Amoxicillin,Blood Pressure,Syrup,ACE inhibitor,Not Required,Lowers cholesterol,No,436.2,Controlled Substance,Child
+Simvastatin,Diabetes,Drops,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,180.42,Over the Counter,Senior
+Cetirizine,Pain,Capsule,Antibiotic,Required,Alleviates allergies,Yes,95.63,Controlled Substance,Child
+Simvastatin,Heart Disease,Gel,ACE inhibitor,Required,Alleviates allergies,No,216.08,Prescription,Adult
+Atorvastatin,Heart Disease,Injection,Antipyretic,Not Required,Reduces fever,Yes,9.51,Controlled Substance,Child
+Paracetamol,Cholesterol,Drops,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,8.2,Controlled Substance,Senior
+Aspirin,Pain,Syrup,Antipyretic,Not Required,Used for treating infections,Yes,309.9,Prescription,Senior
+Atorvastatin,Fever,Drops,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,26.0,Controlled Substance,Child
+Metformin,Diabetes,Cream,Analgesic,Required,Alleviates allergies,Yes,19.47,Prescription,Senior
+Amoxicillin,Pain,Inhaler,ACE inhibitor,Required,Controls blood pressure,No,353.11,Over the Counter,Adult
+Simvastatin,Acidity,Syrup,Analgesic,Required,Alleviates allergies,Yes,49.67,Controlled Substance,Senior
+Aspirin,Diabetes,Gel,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,344.0,Controlled Substance,Child
+Omeprazole,Acidity,Inhaler,Proton Pump Inhibitor,Not Required,Lowers cholesterol,Yes,130.9,Over the Counter,Adult
+Paracetamol,Infection,Injection,Statin,Required,Reduces fever,Yes,79.44,Controlled Substance,Child
+Aspirin,Asthma,Capsule,Statin,Required,Alleviates allergies,Yes,257.71,Over the Counter,Adult
+Aspirin,Fever,Drops,Antibiotic,Not Required,Used for pain relief,No,359.57,Controlled Substance,Child
+Simvastatin,Infection,Capsule,Antipyretic,Not Required,Alleviates allergies,Yes,216.01,Controlled Substance,Adult
+Cetirizine,Acidity,Capsule,Analgesic,Required,Used for pain relief,No,19.61,Over the Counter,Senior
+Amoxicillin,Infection,Inhaler,Antihistamine,Not Required,Reduces fever,Yes,454.76,Over the Counter,Adult
+Omeprazole,Heart Disease,Inhaler,Antibiotic,Not Required,Alleviates allergies,No,297.63,Controlled Substance,Senior
+Lisinopril,Diabetes,Syrup,Antihistamine,Not Required,Reduces fever,Yes,18.64,Prescription,Child
+Amoxicillin,Pain,Capsule,Antipyretic,Not Required,Lowers cholesterol,Yes,105.76,Controlled Substance,Senior
+Cetirizine,Heart Disease,Drops,Antihistamine,Required,Reduces fever,No,316.42,Over the Counter,Child
+Simvastatin,Blood Pressure,Drops,ACE inhibitor,Required,Lowers cholesterol,No,230.04,Controlled Substance,Child
+Omeprazole,Cholesterol,Gel,Analgesic,Not Required,Used for pain relief,No,243.9,Over the Counter,Child
+Omeprazole,Blood Pressure,Inhaler,Antipyretic,Not Required,Used for treating infections,No,87.14,Over the Counter,Senior
+Ibuprofen,Cholesterol,Syrup,Antibiotic,Required,Lowers cholesterol,No,302.88,Prescription,Adult
+Cetirizine,Pain,Injection,Antihistamine,Not Required,Used for treating infections,No,219.48,Controlled Substance,Adult
+Ibuprofen,Fever,Injection,Antipyretic,Not Required,Used for pain relief,Yes,156.56,Over the Counter,Senior
+Ibuprofen,Asthma,Drops,Analgesic,Required,Lowers cholesterol,Yes,98.52,Controlled Substance,Adult
+Atorvastatin,Fever,Inhaler,Antihistamine,Required,Reduces fever,No,314.71,Over the Counter,Senior
+Simvastatin,Infection,Inhaler,Proton Pump Inhibitor,Required,Used for treating infections,Yes,468.24,Over the Counter,Adult
+Lisinopril,Blood Pressure,Syrup,Antihistamine,Required,Used for pain relief,Yes,458.66,Over the Counter,Adult
+Metformin,Infection,Cream,Antibiotic,Required,Lowers cholesterol,Yes,354.43,Prescription,Senior
+Ibuprofen,Infection,Tablet,Antipyretic,Not Required,Lowers cholesterol,Yes,172.04,Over the Counter,Senior
+Cetirizine,Heart Disease,Inhaler,ACE inhibitor,Required,Reduces fever,Yes,451.47,Controlled Substance,Senior
+Lisinopril,Diabetes,Tablet,Analgesic,Required,Used for treating infections,No,367.08,Controlled Substance,Child
+Simvastatin,Pain,Inhaler,Analgesic,Required,Controls blood pressure,Yes,265.72,Over the Counter,Child
+Ibuprofen,Pain,Injection,Analgesic,Not Required,Used for treating infections,No,391.46,Controlled Substance,Adult
+Metformin,Cholesterol,Syrup,ACE inhibitor,Not Required,Alleviates allergies,No,419.98,Over the Counter,Child
+Omeprazole,Acidity,Inhaler,Statin,Required,Used for treating infections,Yes,331.24,Controlled Substance,Senior
+Atorvastatin,Fever,Syrup,Statin,Required,Controls blood pressure,No,183.63,Controlled Substance,Child
+Amoxicillin,Blood Pressure,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,No,313.99,Over the Counter,Child
+Ibuprofen,Heart Disease,Syrup,Proton Pump Inhibitor,Required,Used for pain relief,No,447.73,Over the Counter,Senior
+Aspirin,Fever,Syrup,ACE inhibitor,Required,Alleviates allergies,No,339.83,Over the Counter,Adult
+Cetirizine,Cholesterol,Inhaler,Antipyretic,Not Required,Used for treating infections,No,150.8,Controlled Substance,Child
+Atorvastatin,Blood Pressure,Tablet,Statin,Not Required,Used for treating infections,No,270.77,Over the Counter,Child
+Metformin,Pain,Cream,Antibiotic,Not Required,Used for treating infections,Yes,278.17,Over the Counter,Child
+Omeprazole,Acidity,Inhaler,ACE inhibitor,Required,Controls blood pressure,No,418.67,Prescription,Child
+Cetirizine,Blood Pressure,Inhaler,ACE inhibitor,Required,Used for treating infections,Yes,461.42,Over the Counter,Senior
+Omeprazole,Fever,Capsule,Antibiotic,Not Required,Reduces fever,Yes,199.6,Prescription,Senior
+Cetirizine,Cholesterol,Inhaler,Statin,Not Required,Alleviates allergies,No,330.46,Over the Counter,Adult
+Lisinopril,Allergy,Capsule,Antipyretic,Required,Alleviates allergies,No,43.12,Prescription,Child
+Atorvastatin,Diabetes,Injection,Analgesic,Not Required,Used for treating infections,Yes,96.79,Prescription,Senior
+Omeprazole,Allergy,Drops,Proton Pump Inhibitor,Required,Alleviates allergies,No,174.19,Controlled Substance,Senior
+Aspirin,Blood Pressure,Cream,Antihistamine,Required,Controls blood pressure,Yes,58.44,Controlled Substance,Adult
+Ibuprofen,Blood Pressure,Syrup,Analgesic,Not Required,Used for treating infections,Yes,451.68,Controlled Substance,Senior
+Amoxicillin,Blood Pressure,Capsule,Statin,Not Required,Controls blood pressure,No,134.73,Over the Counter,Adult
+Simvastatin,Asthma,Tablet,Antihistamine,Not Required,Alleviates allergies,Yes,152.17,Prescription,Adult
+Paracetamol,Infection,Syrup,Antipyretic,Not Required,Used for treating infections,Yes,116.31,Controlled Substance,Adult
+Omeprazole,Cholesterol,Syrup,ACE inhibitor,Not Required,Lowers cholesterol,Yes,381.85,Prescription,Senior
+Omeprazole,Allergy,Cream,Antihistamine,Not Required,Used for pain relief,No,425.25,Over the Counter,Senior
+Cetirizine,Blood Pressure,Capsule,Statin,Required,Used for treating infections,Yes,150.01,Over the Counter,Senior
+Paracetamol,Cholesterol,Tablet,Analgesic,Not Required,Reduces fever,Yes,290.88,Over the Counter,Adult
+Atorvastatin,Cholesterol,Inhaler,ACE inhibitor,Required,Lowers cholesterol,No,494.52,Prescription,Child
+Simvastatin,Cholesterol,Capsule,Antipyretic,Required,Used for pain relief,Yes,192.65,Prescription,Senior
+Metformin,Heart Disease,Inhaler,Antihistamine,Not Required,Alleviates allergies,Yes,395.42,Prescription,Senior
+Metformin,Heart Disease,Gel,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,146.98,Over the Counter,Senior
+Amoxicillin,Infection,Gel,ACE inhibitor,Not Required,Alleviates allergies,No,441.13,Over the Counter,Child
+Omeprazole,Allergy,Cream,Analgesic,Not Required,Alleviates allergies,Yes,358.51,Controlled Substance,Senior
+Amoxicillin,Pain,Capsule,Antihistamine,Not Required,Lowers cholesterol,Yes,344.49,Controlled Substance,Child
+Aspirin,Pain,Tablet,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,28.68,Controlled Substance,Adult
+Omeprazole,Asthma,Injection,Analgesic,Not Required,Used for pain relief,No,226.39,Controlled Substance,Senior
+Aspirin,Asthma,Cream,Antibiotic,Not Required,Controls blood pressure,No,104.54,Controlled Substance,Child
+Atorvastatin,Cholesterol,Gel,Antibiotic,Not Required,Controls blood pressure,No,94.16,Controlled Substance,Senior
+Omeprazole,Heart Disease,Drops,Proton Pump Inhibitor,Required,Used for pain relief,No,441.25,Over the Counter,Child
+Cetirizine,Fever,Gel,Analgesic,Not Required,Reduces fever,No,337.94,Prescription,Adult
+Atorvastatin,Heart Disease,Injection,Analgesic,Not Required,Alleviates allergies,Yes,297.05,Prescription,Adult
+Omeprazole,Fever,Drops,Proton Pump Inhibitor,Required,Used for pain relief,Yes,277.51,Over the Counter,Senior
+Aspirin,Pain,Gel,Antipyretic,Not Required,Controls blood pressure,Yes,184.71,Controlled Substance,Child
+Lisinopril,Infection,Injection,Analgesic,Not Required,Reduces fever,No,359.73,Prescription,Adult
+Simvastatin,Cholesterol,Cream,Antipyretic,Not Required,Lowers cholesterol,Yes,93.75,Over the Counter,Adult
+Atorvastatin,Asthma,Tablet,Antibiotic,Required,Lowers cholesterol,No,436.7,Prescription,Senior
+Paracetamol,Blood Pressure,Syrup,ACE inhibitor,Not Required,Lowers cholesterol,Yes,91.97,Prescription,Senior
+Cetirizine,Blood Pressure,Capsule,Antibiotic,Not Required,Controls blood pressure,No,391.61,Over the Counter,Child
+Lisinopril,Fever,Drops,Analgesic,Not Required,Controls blood pressure,No,52.19,Prescription,Child
+Ibuprofen,Allergy,Gel,Statin,Required,Used for treating infections,No,485.71,Prescription,Child
+Omeprazole,Fever,Cream,Proton Pump Inhibitor,Required,Lowers cholesterol,No,368.76,Prescription,Adult
+Paracetamol,Cholesterol,Inhaler,Proton Pump Inhibitor,Required,Reduces fever,Yes,253.14,Over the Counter,Senior
+Aspirin,Blood Pressure,Syrup,Proton Pump Inhibitor,Required,Used for treating infections,Yes,220.67,Controlled Substance,Senior
+Cetirizine,Acidity,Drops,Antihistamine,Not Required,Controls blood pressure,No,73.05,Over the Counter,Adult
+Lisinopril,Heart Disease,Syrup,Antipyretic,Required,Alleviates allergies,Yes,480.78,Over the Counter,Child
+Ibuprofen,Diabetes,Capsule,ACE inhibitor,Required,Used for pain relief,Yes,411.54,Controlled Substance,Adult
+Cetirizine,Asthma,Syrup,Antihistamine,Required,Used for treating infections,No,284.3,Over the Counter,Child
+Simvastatin,Fever,Gel,Analgesic,Not Required,Used for treating infections,Yes,431.04,Over the Counter,Adult
+Cetirizine,Fever,Tablet,Antihistamine,Required,Controls blood pressure,Yes,325.64,Prescription,Adult
+Paracetamol,Fever,Gel,Antipyretic,Not Required,Alleviates allergies,No,396.75,Over the Counter,Child
+Atorvastatin,Blood Pressure,Drops,Statin,Required,Controls blood pressure,Yes,239.85,Controlled Substance,Child
+Lisinopril,Pain,Cream,ACE inhibitor,Not Required,Used for treating infections,Yes,319.69,Controlled Substance,Child
+Paracetamol,Asthma,Syrup,Antihistamine,Not Required,Lowers cholesterol,Yes,252.85,Prescription,Adult
+Omeprazole,Heart Disease,Capsule,Analgesic,Required,Used for pain relief,Yes,140.49,Prescription,Adult
+Cetirizine,Infection,Cream,Antipyretic,Not Required,Lowers cholesterol,Yes,284.75,Over the Counter,Adult
+Lisinopril,Infection,Capsule,Antihistamine,Not Required,Reduces fever,Yes,259.77,Controlled Substance,Senior
+Metformin,Acidity,Drops,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,194.08,Prescription,Child
+Paracetamol,Acidity,Cream,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,323.16,Prescription,Child
+Omeprazole,Allergy,Gel,Antibiotic,Required,Lowers cholesterol,No,6.15,Over the Counter,Senior
+Aspirin,Pain,Inhaler,Antipyretic,Required,Used for treating infections,Yes,139.46,Over the Counter,Child
+Cetirizine,Blood Pressure,Cream,Statin,Not Required,Lowers cholesterol,No,76.09,Controlled Substance,Senior
+Ibuprofen,Heart Disease,Syrup,Antipyretic,Required,Alleviates allergies,Yes,389.81,Over the Counter,Senior
+Lisinopril,Cholesterol,Inhaler,Antihistamine,Not Required,Alleviates allergies,Yes,433.67,Over the Counter,Adult
+Omeprazole,Heart Disease,Injection,Statin,Required,Used for pain relief,Yes,115.61,Controlled Substance,Child
+Aspirin,Blood Pressure,Gel,Analgesic,Not Required,Alleviates allergies,No,425.49,Prescription,Adult
+Metformin,Blood Pressure,Capsule,ACE inhibitor,Not Required,Controls blood pressure,Yes,477.29,Over the Counter,Adult
+Lisinopril,Blood Pressure,Injection,ACE inhibitor,Required,Controls blood pressure,No,335.97,Prescription,Senior
+Simvastatin,Acidity,Cream,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,250.04,Prescription,Senior
+Simvastatin,Asthma,Injection,Antibiotic,Not Required,Lowers cholesterol,Yes,199.78,Over the Counter,Child
+Atorvastatin,Fever,Tablet,Antibiotic,Required,Used for treating infections,No,138.86,Over the Counter,Adult
+Simvastatin,Blood Pressure,Cream,ACE inhibitor,Not Required,Reduces fever,Yes,413.13,Prescription,Senior
+Omeprazole,Diabetes,Syrup,Proton Pump Inhibitor,Not Required,Reduces fever,No,451.71,Controlled Substance,Adult
+Lisinopril,Fever,Capsule,Statin,Not Required,Controls blood pressure,No,432.51,Prescription,Child
+Aspirin,Asthma,Injection,Statin,Required,Controls blood pressure,No,236.4,Prescription,Senior
+Paracetamol,Acidity,Inhaler,Antipyretic,Not Required,Used for treating infections,Yes,69.97,Prescription,Adult
+Cetirizine,Pain,Gel,Antipyretic,Not Required,Controls blood pressure,Yes,176.22,Controlled Substance,Senior
+Cetirizine,Fever,Drops,Statin,Required,Controls blood pressure,Yes,484.43,Over the Counter,Adult
+Cetirizine,Cholesterol,Gel,Statin,Required,Controls blood pressure,Yes,77.45,Prescription,Child
+Aspirin,Allergy,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,360.9,Prescription,Child
+Aspirin,Pain,Inhaler,Antibiotic,Not Required,Reduces fever,Yes,33.46,Over the Counter,Child
+Atorvastatin,Heart Disease,Cream,Antibiotic,Not Required,Controls blood pressure,Yes,369.5,Prescription,Adult
+Atorvastatin,Allergy,Gel,Analgesic,Required,Controls blood pressure,Yes,235.57,Over the Counter,Senior
+Ibuprofen,Pain,Inhaler,Antihistamine,Not Required,Reduces fever,No,239.67,Over the Counter,Senior
+Amoxicillin,Infection,Injection,Antipyretic,Not Required,Alleviates allergies,No,444.87,Over the Counter,Senior
+Amoxicillin,Cholesterol,Cream,Antipyretic,Not Required,Lowers cholesterol,Yes,135.4,Over the Counter,Adult
+Atorvastatin,Allergy,Inhaler,Analgesic,Not Required,Lowers cholesterol,Yes,449.25,Controlled Substance,Senior
+Lisinopril,Acidity,Syrup,Antibiotic,Not Required,Lowers cholesterol,No,221.3,Controlled Substance,Child
+Metformin,Pain,Tablet,Statin,Required,Reduces fever,No,255.77,Prescription,Senior
+Metformin,Acidity,Drops,Antibiotic,Required,Controls blood pressure,No,236.82,Prescription,Senior
+Aspirin,Blood Pressure,Cream,ACE inhibitor,Not Required,Alleviates allergies,No,216.88,Controlled Substance,Senior
+Cetirizine,Allergy,Gel,Analgesic,Required,Reduces fever,Yes,227.34,Controlled Substance,Senior
+Cetirizine,Infection,Tablet,Analgesic,Required,Reduces fever,Yes,347.08,Controlled Substance,Adult
+Atorvastatin,Diabetes,Inhaler,ACE inhibitor,Not Required,Alleviates allergies,No,72.72,Over the Counter,Child
+Simvastatin,Pain,Injection,Analgesic,Required,Used for pain relief,No,112.24,Prescription,Child
+Atorvastatin,Blood Pressure,Capsule,Antihistamine,Not Required,Reduces fever,Yes,391.95,Prescription,Adult
+Cetirizine,Infection,Injection,ACE inhibitor,Not Required,Alleviates allergies,Yes,481.96,Over the Counter,Senior
+Amoxicillin,Fever,Cream,Analgesic,Required,Lowers cholesterol,Yes,290.94,Controlled Substance,Adult
+Ibuprofen,Acidity,Cream,Statin,Required,Controls blood pressure,No,122.78,Over the Counter,Child
+Paracetamol,Diabetes,Gel,Antibiotic,Required,Reduces fever,Yes,85.36,Over the Counter,Adult
+Omeprazole,Blood Pressure,Tablet,ACE inhibitor,Not Required,Used for pain relief,Yes,158.36,Prescription,Adult
+Metformin,Diabetes,Gel,ACE inhibitor,Required,Controls blood pressure,Yes,349.18,Controlled Substance,Senior
+Simvastatin,Cholesterol,Gel,Proton Pump Inhibitor,Not Required,Used for pain relief,Yes,70.8,Over the Counter,Adult
+Atorvastatin,Allergy,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,319.25,Prescription,Senior
+Aspirin,Blood Pressure,Cream,Statin,Required,Controls blood pressure,No,190.14,Controlled Substance,Child
+Omeprazole,Acidity,Gel,Antihistamine,Not Required,Used for treating infections,Yes,352.63,Controlled Substance,Adult
+Omeprazole,Blood Pressure,Drops,Antihistamine,Not Required,Reduces fever,Yes,190.94,Controlled Substance,Child
+Metformin,Infection,Syrup,ACE inhibitor,Not Required,Used for pain relief,Yes,468.51,Prescription,Adult
+Paracetamol,Cholesterol,Injection,Antibiotic,Required,Reduces fever,No,260.11,Controlled Substance,Child
+Atorvastatin,Cholesterol,Cream,Antibiotic,Not Required,Used for pain relief,No,178.92,Controlled Substance,Senior
+Omeprazole,Allergy,Injection,Analgesic,Not Required,Alleviates allergies,No,196.93,Controlled Substance,Senior
+Atorvastatin,Allergy,Syrup,Statin,Not Required,Controls blood pressure,No,208.71,Prescription,Senior
+Cetirizine,Infection,Cream,Antibiotic,Not Required,Alleviates allergies,Yes,281.96,Prescription,Adult
+Cetirizine,Acidity,Tablet,Antibiotic,Not Required,Reduces fever,No,452.81,Prescription,Adult
+Cetirizine,Pain,Drops,Antihistamine,Required,Lowers cholesterol,Yes,358.21,Controlled Substance,Adult
+Metformin,Blood Pressure,Syrup,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,184.74,Prescription,Child
+Metformin,Asthma,Gel,Antihistamine,Required,Controls blood pressure,No,43.4,Controlled Substance,Child
+Atorvastatin,Cholesterol,Inhaler,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,14.11,Prescription,Senior
+Cetirizine,Cholesterol,Capsule,Antipyretic,Required,Controls blood pressure,No,148.31,Over the Counter,Adult
+Metformin,Infection,Drops,ACE inhibitor,Not Required,Alleviates allergies,No,192.1,Controlled Substance,Child
+Simvastatin,Allergy,Syrup,ACE inhibitor,Required,Lowers cholesterol,No,472.4,Prescription,Senior
+Amoxicillin,Cholesterol,Capsule,Proton Pump Inhibitor,Required,Reduces fever,No,411.02,Controlled Substance,Senior
+Lisinopril,Asthma,Gel,Proton Pump Inhibitor,Required,Controls blood pressure,No,98.14,Prescription,Adult
+Ibuprofen,Acidity,Capsule,Proton Pump Inhibitor,Required,Alleviates allergies,Yes,431.24,Over the Counter,Adult
+Metformin,Asthma,Inhaler,Proton Pump Inhibitor,Required,Lowers cholesterol,No,71.87,Prescription,Child
+Lisinopril,Allergy,Cream,Statin,Required,Lowers cholesterol,Yes,308.88,Controlled Substance,Adult
+Simvastatin,Asthma,Gel,Antibiotic,Not Required,Controls blood pressure,No,56.17,Over the Counter,Child
+Ibuprofen,Blood Pressure,Drops,Antipyretic,Required,Alleviates allergies,Yes,130.35,Over the Counter,Child
+Ibuprofen,Heart Disease,Inhaler,Antipyretic,Not Required,Used for treating infections,Yes,421.0,Over the Counter,Adult
+Amoxicillin,Diabetes,Capsule,ACE inhibitor,Required,Controls blood pressure,No,39.09,Controlled Substance,Adult
+Amoxicillin,Fever,Drops,ACE inhibitor,Required,Reduces fever,No,255.48,Controlled Substance,Adult
+Aspirin,Fever,Tablet,Antihistamine,Required,Used for pain relief,No,225.7,Controlled Substance,Child
+Omeprazole,Acidity,Cream,Proton Pump Inhibitor,Not Required,Reduces fever,No,295.8,Controlled Substance,Senior
+Lisinopril,Diabetes,Syrup,ACE inhibitor,Required,Reduces fever,Yes,139.27,Controlled Substance,Adult
+Atorvastatin,Blood Pressure,Cream,Analgesic,Not Required,Alleviates allergies,Yes,270.77,Prescription,Child
+Metformin,Acidity,Injection,Antipyretic,Required,Lowers cholesterol,Yes,79.82,Controlled Substance,Adult
+Lisinopril,Fever,Gel,Antipyretic,Required,Lowers cholesterol,No,304.56,Over the Counter,Senior
+Paracetamol,Asthma,Capsule,ACE inhibitor,Required,Controls blood pressure,Yes,105.37,Over the Counter,Child
+Atorvastatin,Heart Disease,Gel,Antipyretic,Required,Lowers cholesterol,Yes,182.39,Prescription,Child
+Ibuprofen,Acidity,Cream,ACE inhibitor,Required,Reduces fever,Yes,433.22,Prescription,Adult
+Paracetamol,Heart Disease,Cream,Statin,Required,Used for treating infections,Yes,61.59,Prescription,Adult
+Lisinopril,Allergy,Inhaler,Antipyretic,Not Required,Controls blood pressure,No,183.95,Prescription,Adult
+Paracetamol,Heart Disease,Drops,Antihistamine,Required,Lowers cholesterol,Yes,456.49,Prescription,Senior
+Aspirin,Pain,Capsule,Proton Pump Inhibitor,Not Required,Used for pain relief,Yes,217.58,Prescription,Senior
+Simvastatin,Allergy,Syrup,Antihistamine,Required,Reduces fever,No,430.77,Prescription,Adult
+Atorvastatin,Heart Disease,Capsule,Statin,Not Required,Lowers cholesterol,Yes,313.63,Controlled Substance,Senior
+Cetirizine,Blood Pressure,Tablet,Analgesic,Not Required,Reduces fever,No,362.65,Prescription,Adult
+Ibuprofen,Allergy,Tablet,Antibiotic,Not Required,Used for pain relief,No,492.07,Over the Counter,Senior
+Ibuprofen,Diabetes,Capsule,Analgesic,Not Required,Used for pain relief,Yes,368.4,Over the Counter,Adult
+Aspirin,Pain,Gel,Antihistamine,Required,Used for treating infections,No,252.32,Controlled Substance,Child
+Atorvastatin,Fever,Tablet,Analgesic,Not Required,Controls blood pressure,Yes,62.44,Over the Counter,Senior
+Atorvastatin,Acidity,Inhaler,Statin,Not Required,Controls blood pressure,No,187.23,Over the Counter,Child
+Lisinopril,Heart Disease,Capsule,Analgesic,Not Required,Lowers cholesterol,Yes,189.05,Over the Counter,Senior
+Amoxicillin,Infection,Syrup,Analgesic,Required,Controls blood pressure,Yes,43.16,Controlled Substance,Senior
+Omeprazole,Asthma,Inhaler,Antipyretic,Required,Lowers cholesterol,No,103.67,Over the Counter,Child
+Lisinopril,Acidity,Gel,ACE inhibitor,Not Required,Alleviates allergies,Yes,438.35,Over the Counter,Adult
+Metformin,Infection,Drops,Antibiotic,Not Required,Controls blood pressure,Yes,395.11,Prescription,Child
+Ibuprofen,Fever,Inhaler,Statin,Not Required,Used for pain relief,Yes,286.2,Prescription,Child
+Amoxicillin,Pain,Cream,Statin,Required,Used for treating infections,Yes,20.07,Controlled Substance,Child
+Amoxicillin,Cholesterol,Gel,Analgesic,Not Required,Lowers cholesterol,No,410.89,Controlled Substance,Adult
+Atorvastatin,Fever,Syrup,ACE inhibitor,Not Required,Controls blood pressure,No,416.32,Controlled Substance,Child
+Paracetamol,Blood Pressure,Inhaler,Antihistamine,Not Required,Lowers cholesterol,No,412.45,Controlled Substance,Adult
+Aspirin,Heart Disease,Syrup,Antipyretic,Not Required,Controls blood pressure,Yes,429.14,Controlled Substance,Child
+Metformin,Blood Pressure,Injection,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,157.79,Controlled Substance,Child
+Omeprazole,Cholesterol,Syrup,Antihistamine,Required,Lowers cholesterol,No,298.18,Controlled Substance,Adult
+Simvastatin,Heart Disease,Syrup,Antibiotic,Required,Controls blood pressure,Yes,330.1,Controlled Substance,Adult
+Ibuprofen,Heart Disease,Capsule,Antibiotic,Required,Reduces fever,Yes,97.33,Prescription,Child
+Cetirizine,Blood Pressure,Inhaler,Antibiotic,Required,Alleviates allergies,No,162.78,Over the Counter,Senior
+Atorvastatin,Pain,Tablet,Statin,Required,Controls blood pressure,Yes,498.16,Prescription,Adult
+Ibuprofen,Diabetes,Gel,Antibiotic,Not Required,Used for pain relief,Yes,425.69,Over the Counter,Senior
+Aspirin,Acidity,Capsule,Antipyretic,Required,Used for pain relief,Yes,208.11,Over the Counter,Adult
+Omeprazole,Allergy,Syrup,Analgesic,Required,Used for pain relief,No,329.3,Controlled Substance,Adult
+Lisinopril,Pain,Cream,Antibiotic,Required,Used for treating infections,No,372.18,Over the Counter,Child
+Amoxicillin,Allergy,Cream,Analgesic,Not Required,Lowers cholesterol,No,320.18,Prescription,Adult
+Simvastatin,Cholesterol,Gel,Analgesic,Required,Lowers cholesterol,Yes,178.11,Over the Counter,Adult
+Amoxicillin,Heart Disease,Inhaler,Antihistamine,Not Required,Reduces fever,Yes,177.2,Over the Counter,Child
+Ibuprofen,Asthma,Tablet,Antihistamine,Not Required,Reduces fever,Yes,413.8,Prescription,Child
+Atorvastatin,Allergy,Syrup,Analgesic,Required,Used for pain relief,No,305.98,Over the Counter,Child
+Metformin,Diabetes,Cream,Antihistamine,Required,Alleviates allergies,No,155.99,Prescription,Adult
+Lisinopril,Cholesterol,Tablet,Antihistamine,Required,Controls blood pressure,Yes,469.02,Over the Counter,Adult
+Lisinopril,Blood Pressure,Inhaler,Antihistamine,Required,Reduces fever,Yes,78.55,Controlled Substance,Child
+Paracetamol,Diabetes,Capsule,Statin,Not Required,Alleviates allergies,No,453.31,Controlled Substance,Senior
+Omeprazole,Cholesterol,Inhaler,Antihistamine,Not Required,Used for treating infections,No,355.31,Controlled Substance,Senior
+Atorvastatin,Pain,Tablet,Antipyretic,Required,Used for pain relief,Yes,494.64,Controlled Substance,Senior
+Ibuprofen,Asthma,Cream,Antibiotic,Not Required,Used for treating infections,Yes,100.64,Over the Counter,Adult
+Paracetamol,Acidity,Tablet,Statin,Required,Reduces fever,Yes,430.58,Controlled Substance,Senior
+Aspirin,Infection,Drops,Analgesic,Required,Alleviates allergies,Yes,136.06,Controlled Substance,Senior
+Atorvastatin,Asthma,Cream,Analgesic,Not Required,Alleviates allergies,Yes,442.5,Over the Counter,Adult
+Metformin,Diabetes,Capsule,Proton Pump Inhibitor,Required,Alleviates allergies,No,43.3,Controlled Substance,Adult
+Ibuprofen,Asthma,Tablet,Antipyretic,Required,Lowers cholesterol,No,107.15,Controlled Substance,Adult
+Simvastatin,Heart Disease,Tablet,Antibiotic,Required,Used for pain relief,No,328.37,Over the Counter,Child
+Aspirin,Acidity,Tablet,Antihistamine,Not Required,Lowers cholesterol,No,43.69,Over the Counter,Senior
+Atorvastatin,Heart Disease,Gel,Statin,Not Required,Used for pain relief,Yes,499.64,Prescription,Senior
+Omeprazole,Diabetes,Drops,Antihistamine,Not Required,Alleviates allergies,Yes,334.68,Over the Counter,Senior
+Paracetamol,Heart Disease,Tablet,Statin,Not Required,Used for pain relief,No,357.79,Prescription,Senior
+Simvastatin,Infection,Injection,Antipyretic,Not Required,Used for pain relief,No,227.68,Over the Counter,Adult
+Paracetamol,Heart Disease,Cream,Antipyretic,Not Required,Used for treating infections,No,114.5,Prescription,Senior
+Omeprazole,Cholesterol,Gel,Analgesic,Not Required,Used for treating infections,Yes,207.29,Over the Counter,Senior
+Aspirin,Heart Disease,Capsule,Statin,Not Required,Controls blood pressure,Yes,459.61,Controlled Substance,Adult
+Metformin,Heart Disease,Gel,Antihistamine,Not Required,Controls blood pressure,Yes,227.96,Controlled Substance,Senior
+Ibuprofen,Acidity,Drops,Statin,Not Required,Lowers cholesterol,No,448.87,Controlled Substance,Child
+Atorvastatin,Cholesterol,Capsule,Statin,Not Required,Used for treating infections,No,236.87,Controlled Substance,Senior
+Lisinopril,Infection,Syrup,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,354.66,Prescription,Adult
+Metformin,Asthma,Injection,Antibiotic,Required,Lowers cholesterol,Yes,467.52,Over the Counter,Senior
+Aspirin,Heart Disease,Tablet,Antihistamine,Not Required,Reduces fever,Yes,202.94,Over the Counter,Senior
+Simvastatin,Heart Disease,Injection,Antibiotic,Required,Alleviates allergies,No,5.04,Controlled Substance,Child
+Atorvastatin,Pain,Tablet,Proton Pump Inhibitor,Required,Alleviates allergies,No,253.58,Prescription,Senior
+Atorvastatin,Fever,Syrup,Antibiotic,Required,Used for treating infections,Yes,298.61,Prescription,Adult
+Omeprazole,Asthma,Inhaler,Analgesic,Required,Used for treating infections,Yes,276.95,Over the Counter,Senior
+Omeprazole,Fever,Syrup,Proton Pump Inhibitor,Required,Used for pain relief,No,193.53,Prescription,Senior
+Metformin,Diabetes,Tablet,Analgesic,Not Required,Controls blood pressure,No,267.3,Controlled Substance,Senior
+Cetirizine,Diabetes,Inhaler,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,218.11,Prescription,Adult
+Omeprazole,Asthma,Capsule,Antihistamine,Required,Alleviates allergies,Yes,310.86,Prescription,Senior
+Omeprazole,Infection,Capsule,Antipyretic,Not Required,Reduces fever,Yes,211.79,Over the Counter,Senior
+Cetirizine,Heart Disease,Injection,Antibiotic,Not Required,Lowers cholesterol,No,432.85,Prescription,Child
+Omeprazole,Heart Disease,Syrup,Antibiotic,Required,Reduces fever,Yes,173.44,Controlled Substance,Child
+Atorvastatin,Cholesterol,Injection,ACE inhibitor,Required,Controls blood pressure,No,485.12,Prescription,Adult
+Metformin,Heart Disease,Cream,Antipyretic,Not Required,Used for treating infections,Yes,251.75,Over the Counter,Adult
+Amoxicillin,Asthma,Injection,Antibiotic,Required,Controls blood pressure,Yes,148.39,Over the Counter,Senior
+Paracetamol,Fever,Tablet,Statin,Required,Lowers cholesterol,Yes,491.7,Controlled Substance,Child
+Metformin,Diabetes,Injection,Antihistamine,Required,Lowers cholesterol,No,172.2,Controlled Substance,Senior
+Aspirin,Heart Disease,Cream,Statin,Not Required,Lowers cholesterol,Yes,19.41,Prescription,Child
+Metformin,Asthma,Cream,ACE inhibitor,Required,Used for pain relief,No,445.27,Controlled Substance,Senior
+Cetirizine,Heart Disease,Drops,Antibiotic,Required,Used for pain relief,No,227.84,Over the Counter,Child
+Metformin,Infection,Gel,ACE inhibitor,Not Required,Reduces fever,No,336.59,Over the Counter,Adult
+Cetirizine,Pain,Capsule,Analgesic,Not Required,Used for pain relief,No,133.08,Controlled Substance,Child
+Metformin,Asthma,Drops,ACE inhibitor,Not Required,Controls blood pressure,Yes,256.23,Controlled Substance,Adult
+Paracetamol,Infection,Injection,Proton Pump Inhibitor,Required,Used for treating infections,No,192.73,Over the Counter,Senior
+Cetirizine,Blood Pressure,Drops,Analgesic,Not Required,Alleviates allergies,Yes,430.18,Prescription,Senior
+Ibuprofen,Fever,Cream,ACE inhibitor,Not Required,Reduces fever,No,28.47,Over the Counter,Child
+Ibuprofen,Asthma,Inhaler,Analgesic,Not Required,Lowers cholesterol,Yes,192.85,Prescription,Senior
+Cetirizine,Infection,Tablet,ACE inhibitor,Not Required,Used for pain relief,Yes,35.66,Over the Counter,Child
+Cetirizine,Blood Pressure,Cream,Antibiotic,Required,Lowers cholesterol,Yes,109.63,Controlled Substance,Child
+Metformin,Diabetes,Injection,Antipyretic,Not Required,Reduces fever,Yes,57.83,Over the Counter,Adult
+Lisinopril,Acidity,Gel,Antihistamine,Required,Reduces fever,No,484.05,Prescription,Senior
+Metformin,Acidity,Injection,Antihistamine,Not Required,Controls blood pressure,No,407.68,Over the Counter,Child
+Metformin,Heart Disease,Inhaler,ACE inhibitor,Required,Lowers cholesterol,No,150.09,Prescription,Child
+Lisinopril,Diabetes,Injection,Analgesic,Required,Reduces fever,No,263.18,Controlled Substance,Senior
+Aspirin,Acidity,Inhaler,Statin,Required,Controls blood pressure,Yes,151.42,Over the Counter,Child
+Metformin,Allergy,Cream,Analgesic,Required,Lowers cholesterol,No,390.27,Prescription,Senior
+Simvastatin,Blood Pressure,Syrup,ACE inhibitor,Not Required,Lowers cholesterol,Yes,174.23,Prescription,Child
+Cetirizine,Cholesterol,Gel,Antipyretic,Required,Lowers cholesterol,No,202.52,Over the Counter,Adult
+Paracetamol,Acidity,Gel,Proton Pump Inhibitor,Required,Reduces fever,Yes,470.61,Over the Counter,Child
+Omeprazole,Allergy,Cream,Analgesic,Not Required,Alleviates allergies,No,98.63,Prescription,Adult
+Lisinopril,Asthma,Syrup,Antibiotic,Not Required,Used for pain relief,No,128.57,Controlled Substance,Child
+Simvastatin,Diabetes,Tablet,Analgesic,Required,Lowers cholesterol,No,55.17,Controlled Substance,Child
+Paracetamol,Allergy,Capsule,Antibiotic,Not Required,Used for pain relief,No,316.26,Over the Counter,Adult
+Lisinopril,Cholesterol,Injection,Analgesic,Not Required,Controls blood pressure,Yes,478.39,Prescription,Child
+Simvastatin,Pain,Syrup,Analgesic,Required,Reduces fever,Yes,144.19,Prescription,Child
+Metformin,Cholesterol,Drops,Antihistamine,Not Required,Controls blood pressure,No,433.86,Over the Counter,Child
+Metformin,Cholesterol,Injection,Antipyretic,Required,Used for pain relief,Yes,439.65,Prescription,Child
+Metformin,Cholesterol,Drops,Analgesic,Not Required,Alleviates allergies,Yes,111.4,Prescription,Child
+Paracetamol,Pain,Cream,Analgesic,Required,Reduces fever,No,304.97,Prescription,Child
+Paracetamol,Cholesterol,Injection,Statin,Required,Lowers cholesterol,Yes,227.83,Over the Counter,Senior
+Amoxicillin,Acidity,Injection,ACE inhibitor,Not Required,Reduces fever,Yes,265.04,Over the Counter,Senior
+Ibuprofen,Diabetes,Gel,Antipyretic,Not Required,Used for pain relief,Yes,373.21,Controlled Substance,Adult
+Paracetamol,Fever,Inhaler,Proton Pump Inhibitor,Required,Used for pain relief,Yes,451.59,Controlled Substance,Adult
+Ibuprofen,Asthma,Inhaler,Proton Pump Inhibitor,Required,Controls blood pressure,No,241.42,Over the Counter,Senior
+Metformin,Heart Disease,Inhaler,ACE inhibitor,Required,Lowers cholesterol,Yes,403.16,Controlled Substance,Child
+Simvastatin,Fever,Cream,Antihistamine,Not Required,Alleviates allergies,Yes,400.27,Controlled Substance,Adult
+Metformin,Asthma,Injection,ACE inhibitor,Required,Used for treating infections,Yes,447.59,Prescription,Senior
+Amoxicillin,Cholesterol,Capsule,Statin,Required,Used for pain relief,Yes,484.09,Controlled Substance,Senior
+Amoxicillin,Cholesterol,Injection,Statin,Required,Alleviates allergies,No,37.82,Controlled Substance,Senior
+Metformin,Asthma,Syrup,Antihistamine,Not Required,Controls blood pressure,No,444.71,Controlled Substance,Adult
+Cetirizine,Blood Pressure,Drops,Antipyretic,Required,Alleviates allergies,Yes,232.53,Controlled Substance,Child
+Amoxicillin,Blood Pressure,Drops,ACE inhibitor,Required,Used for treating infections,No,85.44,Prescription,Child
+Ibuprofen,Heart Disease,Drops,Statin,Required,Lowers cholesterol,Yes,58.1,Controlled Substance,Child
+Metformin,Acidity,Cream,Analgesic,Not Required,Lowers cholesterol,No,218.52,Over the Counter,Adult
+Simvastatin,Heart Disease,Injection,Statin,Not Required,Controls blood pressure,Yes,384.93,Controlled Substance,Senior
+Amoxicillin,Diabetes,Capsule,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,20.06,Prescription,Senior
+Lisinopril,Asthma,Gel,Statin,Not Required,Lowers cholesterol,No,311.08,Controlled Substance,Adult
+Simvastatin,Blood Pressure,Drops,Analgesic,Not Required,Used for pain relief,No,154.7,Controlled Substance,Child
+Cetirizine,Cholesterol,Capsule,Statin,Not Required,Controls blood pressure,Yes,150.25,Controlled Substance,Senior
+Aspirin,Infection,Cream,Statin,Not Required,Alleviates allergies,No,182.12,Over the Counter,Adult
+Atorvastatin,Heart Disease,Tablet,Antihistamine,Required,Controls blood pressure,Yes,238.45,Prescription,Adult
+Paracetamol,Cholesterol,Capsule,Antihistamine,Required,Used for pain relief,Yes,395.85,Prescription,Senior
+Metformin,Pain,Tablet,Analgesic,Not Required,Used for treating infections,No,389.67,Controlled Substance,Child
+Metformin,Blood Pressure,Injection,Statin,Required,Reduces fever,Yes,327.5,Controlled Substance,Senior
+Paracetamol,Pain,Drops,Antibiotic,Not Required,Used for treating infections,Yes,301.98,Prescription,Adult
+Cetirizine,Infection,Tablet,Antipyretic,Required,Lowers cholesterol,No,12.19,Prescription,Child
+Paracetamol,Blood Pressure,Drops,Antipyretic,Required,Alleviates allergies,No,239.75,Controlled Substance,Senior
+Cetirizine,Infection,Inhaler,Analgesic,Required,Used for pain relief,Yes,120.65,Prescription,Adult
+Aspirin,Blood Pressure,Inhaler,Statin,Not Required,Controls blood pressure,No,325.11,Prescription,Adult
+Aspirin,Heart Disease,Cream,Antihistamine,Not Required,Lowers cholesterol,Yes,161.72,Prescription,Senior
+Omeprazole,Pain,Tablet,Antipyretic,Required,Reduces fever,Yes,488.22,Over the Counter,Adult
+Metformin,Infection,Gel,Antipyretic,Not Required,Reduces fever,No,174.43,Prescription,Child
+Metformin,Pain,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,No,308.8,Over the Counter,Senior
+Ibuprofen,Heart Disease,Gel,Antihistamine,Required,Reduces fever,No,370.11,Controlled Substance,Senior
+Ibuprofen,Asthma,Tablet,Antipyretic,Required,Used for treating infections,Yes,227.47,Prescription,Senior
+Omeprazole,Cholesterol,Injection,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,452.88,Over the Counter,Senior
+Paracetamol,Heart Disease,Drops,Proton Pump Inhibitor,Not Required,Alleviates allergies,Yes,208.72,Prescription,Child
+Amoxicillin,Fever,Inhaler,Analgesic,Not Required,Reduces fever,Yes,69.17,Controlled Substance,Senior
+Lisinopril,Acidity,Cream,Analgesic,Required,Lowers cholesterol,Yes,91.93,Controlled Substance,Senior
+Ibuprofen,Pain,Injection,Analgesic,Required,Lowers cholesterol,No,488.91,Over the Counter,Child
+Simvastatin,Cholesterol,Gel,ACE inhibitor,Not Required,Lowers cholesterol,Yes,340.65,Prescription,Child
+Cetirizine,Infection,Cream,Analgesic,Not Required,Used for pain relief,Yes,326.56,Controlled Substance,Senior
+Omeprazole,Infection,Drops,Antipyretic,Not Required,Controls blood pressure,Yes,200.6,Over the Counter,Adult
+Amoxicillin,Infection,Gel,Antibiotic,Not Required,Used for treating infections,No,16.59,Prescription,Child
+Metformin,Asthma,Injection,ACE inhibitor,Not Required,Used for treating infections,No,291.91,Prescription,Senior
+Atorvastatin,Blood Pressure,Cream,Analgesic,Required,Used for treating infections,No,448.77,Over the Counter,Child
+Aspirin,Infection,Capsule,Antihistamine,Not Required,Controls blood pressure,No,57.99,Prescription,Senior
+Simvastatin,Asthma,Capsule,Statin,Not Required,Lowers cholesterol,No,133.69,Over the Counter,Adult
+Ibuprofen,Diabetes,Drops,ACE inhibitor,Not Required,Used for treating infections,No,248.79,Prescription,Adult
+Lisinopril,Cholesterol,Capsule,ACE inhibitor,Not Required,Lowers cholesterol,Yes,66.16,Prescription,Senior
+Lisinopril,Infection,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,No,479.51,Over the Counter,Senior
+Amoxicillin,Diabetes,Injection,Analgesic,Not Required,Used for pain relief,Yes,430.95,Over the Counter,Senior
+Cetirizine,Cholesterol,Capsule,Antipyretic,Not Required,Controls blood pressure,Yes,299.99,Over the Counter,Adult
+Simvastatin,Cholesterol,Cream,Analgesic,Required,Reduces fever,Yes,222.22,Over the Counter,Senior
+Amoxicillin,Diabetes,Inhaler,Antihistamine,Not Required,Controls blood pressure,No,172.02,Controlled Substance,Child
+Ibuprofen,Cholesterol,Syrup,Antibiotic,Required,Alleviates allergies,Yes,277.55,Controlled Substance,Adult
+Paracetamol,Allergy,Inhaler,Proton Pump Inhibitor,Not Required,Used for pain relief,No,455.91,Over the Counter,Senior
+Atorvastatin,Allergy,Inhaler,Proton Pump Inhibitor,Required,Used for pain relief,Yes,464.24,Controlled Substance,Senior
+Simvastatin,Allergy,Inhaler,Statin,Required,Reduces fever,No,128.76,Controlled Substance,Senior
+Lisinopril,Diabetes,Cream,Analgesic,Required,Used for pain relief,Yes,344.97,Controlled Substance,Child
+Ibuprofen,Cholesterol,Drops,Antipyretic,Required,Controls blood pressure,No,419.61,Controlled Substance,Senior
+Paracetamol,Asthma,Syrup,ACE inhibitor,Not Required,Used for treating infections,Yes,265.09,Over the Counter,Child
+Aspirin,Cholesterol,Capsule,ACE inhibitor,Required,Lowers cholesterol,Yes,128.33,Prescription,Adult
+Ibuprofen,Diabetes,Injection,Proton Pump Inhibitor,Not Required,Lowers cholesterol,No,224.09,Prescription,Senior
+Metformin,Acidity,Syrup,Analgesic,Required,Controls blood pressure,Yes,209.64,Prescription,Senior
+Simvastatin,Acidity,Syrup,Analgesic,Not Required,Lowers cholesterol,No,64.84,Controlled Substance,Senior
+Metformin,Fever,Capsule,Antihistamine,Not Required,Alleviates allergies,Yes,45.43,Over the Counter,Adult
+Metformin,Asthma,Injection,ACE inhibitor,Not Required,Used for treating infections,Yes,146.06,Over the Counter,Adult
+Omeprazole,Asthma,Cream,ACE inhibitor,Required,Controls blood pressure,Yes,247.86,Controlled Substance,Senior
+Aspirin,Fever,Injection,Statin,Required,Used for pain relief,No,89.73,Controlled Substance,Adult
+Atorvastatin,Asthma,Drops,Antihistamine,Not Required,Lowers cholesterol,No,331.43,Over the Counter,Child
+Amoxicillin,Infection,Syrup,Antihistamine,Not Required,Reduces fever,Yes,46.27,Over the Counter,Senior
+Atorvastatin,Heart Disease,Injection,Antihistamine,Required,Reduces fever,Yes,174.85,Over the Counter,Child
+Metformin,Infection,Gel,Analgesic,Not Required,Used for pain relief,No,380.51,Over the Counter,Child
+Cetirizine,Acidity,Capsule,Antibiotic,Not Required,Used for pain relief,No,316.04,Over the Counter,Adult
+Cetirizine,Infection,Cream,Statin,Required,Reduces fever,No,485.87,Prescription,Child
+Cetirizine,Acidity,Gel,Statin,Required,Controls blood pressure,Yes,219.1,Prescription,Senior
+Paracetamol,Heart Disease,Tablet,Antibiotic,Required,Alleviates allergies,No,202.16,Controlled Substance,Senior
+Amoxicillin,Asthma,Cream,Antipyretic,Required,Used for treating infections,Yes,348.16,Controlled Substance,Child
+Paracetamol,Infection,Injection,Antipyretic,Not Required,Used for treating infections,No,26.34,Over the Counter,Adult
+Simvastatin,Pain,Drops,Antipyretic,Required,Used for treating infections,Yes,208.98,Prescription,Senior
+Lisinopril,Cholesterol,Injection,Analgesic,Not Required,Alleviates allergies,Yes,109.45,Prescription,Child
+Aspirin,Allergy,Syrup,Antihistamine,Not Required,Used for treating infections,Yes,491.02,Prescription,Adult
+Lisinopril,Infection,Gel,Proton Pump Inhibitor,Not Required,Alleviates allergies,Yes,358.43,Controlled Substance,Adult
+Omeprazole,Diabetes,Inhaler,Antihistamine,Required,Lowers cholesterol,Yes,31.45,Over the Counter,Adult
+Ibuprofen,Blood Pressure,Drops,Statin,Not Required,Used for pain relief,No,395.55,Controlled Substance,Child
+Cetirizine,Heart Disease,Cream,ACE inhibitor,Required,Controls blood pressure,Yes,467.09,Controlled Substance,Child
+Simvastatin,Heart Disease,Capsule,Antibiotic,Required,Used for treating infections,Yes,198.08,Controlled Substance,Child
+Amoxicillin,Acidity,Drops,Analgesic,Not Required,Used for treating infections,No,234.69,Prescription,Child
+Cetirizine,Pain,Gel,Statin,Required,Used for pain relief,No,225.72,Over the Counter,Adult
+Paracetamol,Infection,Injection,Analgesic,Required,Lowers cholesterol,No,199.65,Controlled Substance,Adult
+Aspirin,Cholesterol,Inhaler,ACE inhibitor,Not Required,Used for treating infections,Yes,193.92,Prescription,Adult
+Omeprazole,Pain,Inhaler,Proton Pump Inhibitor,Not Required,Used for treating infections,Yes,33.55,Prescription,Adult
+Metformin,Asthma,Syrup,Antipyretic,Not Required,Controls blood pressure,No,155.26,Over the Counter,Senior
+Amoxicillin,Diabetes,Drops,Statin,Required,Lowers cholesterol,No,46.77,Over the Counter,Senior
+Omeprazole,Allergy,Injection,ACE inhibitor,Required,Lowers cholesterol,Yes,287.71,Prescription,Senior
+Amoxicillin,Acidity,Injection,Antibiotic,Not Required,Controls blood pressure,Yes,361.68,Prescription,Adult
+Cetirizine,Cholesterol,Capsule,Proton Pump Inhibitor,Not Required,Reduces fever,Yes,266.28,Controlled Substance,Child
+Omeprazole,Blood Pressure,Syrup,Analgesic,Required,Reduces fever,Yes,432.41,Controlled Substance,Child
+Metformin,Cholesterol,Tablet,Proton Pump Inhibitor,Required,Alleviates allergies,No,271.29,Over the Counter,Child
+Atorvastatin,Allergy,Syrup,ACE inhibitor,Required,Reduces fever,No,8.25,Controlled Substance,Senior
+Atorvastatin,Allergy,Injection,Antihistamine,Not Required,Alleviates allergies,No,20.12,Over the Counter,Adult
+Cetirizine,Infection,Injection,Analgesic,Required,Reduces fever,No,408.7,Controlled Substance,Adult
+Ibuprofen,Diabetes,Gel,Statin,Required,Controls blood pressure,No,300.57,Controlled Substance,Adult
+Metformin,Allergy,Capsule,Statin,Not Required,Controls blood pressure,Yes,386.94,Controlled Substance,Senior
+Atorvastatin,Pain,Syrup,Antihistamine,Required,Used for treating infections,Yes,249.92,Controlled Substance,Senior
+Cetirizine,Diabetes,Tablet,Statin,Not Required,Reduces fever,Yes,393.31,Prescription,Child
+Ibuprofen,Acidity,Injection,Statin,Not Required,Lowers cholesterol,No,230.18,Controlled Substance,Child
+Metformin,Infection,Drops,Antihistamine,Required,Used for treating infections,No,75.84,Prescription,Senior
+Paracetamol,Pain,Tablet,ACE inhibitor,Not Required,Alleviates allergies,Yes,273.28,Prescription,Senior
+Atorvastatin,Fever,Drops,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,353.36,Prescription,Senior
+Metformin,Allergy,Syrup,Antihistamine,Not Required,Used for treating infections,No,421.58,Prescription,Senior
+Amoxicillin,Cholesterol,Injection,Analgesic,Not Required,Reduces fever,No,240.32,Prescription,Child
+Amoxicillin,Allergy,Inhaler,Antihistamine,Required,Lowers cholesterol,Yes,450.19,Prescription,Senior
+Cetirizine,Cholesterol,Cream,Antibiotic,Not Required,Controls blood pressure,No,467.56,Prescription,Child
+Simvastatin,Infection,Capsule,Statin,Required,Controls blood pressure,Yes,312.29,Controlled Substance,Senior
+Cetirizine,Pain,Tablet,Analgesic,Required,Reduces fever,Yes,74.86,Prescription,Child
+Metformin,Infection,Cream,Proton Pump Inhibitor,Required,Controls blood pressure,No,414.22,Controlled Substance,Senior
+Ibuprofen,Pain,Injection,Antihistamine,Required,Lowers cholesterol,No,75.13,Controlled Substance,Child
+Amoxicillin,Heart Disease,Drops,Antihistamine,Not Required,Alleviates allergies,Yes,425.99,Controlled Substance,Adult
+Ibuprofen,Fever,Drops,Statin,Required,Lowers cholesterol,No,420.55,Controlled Substance,Adult
+Metformin,Acidity,Tablet,Antipyretic,Not Required,Alleviates allergies,No,297.84,Prescription,Senior
+Metformin,Blood Pressure,Drops,Antihistamine,Required,Controls blood pressure,Yes,480.97,Prescription,Senior
+Cetirizine,Fever,Gel,Antihistamine,Not Required,Reduces fever,No,338.18,Controlled Substance,Senior
+Ibuprofen,Allergy,Inhaler,Antihistamine,Not Required,Alleviates allergies,No,153.35,Over the Counter,Adult
+Ibuprofen,Heart Disease,Drops,ACE inhibitor,Required,Lowers cholesterol,Yes,272.69,Over the Counter,Senior
+Atorvastatin,Acidity,Gel,Proton Pump Inhibitor,Not Required,Alleviates allergies,No,305.63,Controlled Substance,Child
+Ibuprofen,Acidity,Cream,ACE inhibitor,Required,Used for treating infections,Yes,260.51,Prescription,Senior
+Atorvastatin,Allergy,Inhaler,Antibiotic,Required,Used for pain relief,No,481.89,Over the Counter,Adult
+Paracetamol,Acidity,Cream,Proton Pump Inhibitor,Required,Used for pain relief,No,311.89,Over the Counter,Senior
+Lisinopril,Acidity,Drops,ACE inhibitor,Required,Lowers cholesterol,No,111.5,Controlled Substance,Senior
+Simvastatin,Diabetes,Capsule,Antibiotic,Required,Controls blood pressure,No,461.48,Prescription,Senior
+Metformin,Heart Disease,Cream,ACE inhibitor,Required,Used for pain relief,Yes,21.51,Prescription,Child
+Metformin,Fever,Cream,ACE inhibitor,Not Required,Used for treating infections,Yes,79.79,Over the Counter,Senior
+Ibuprofen,Diabetes,Injection,Antibiotic,Required,Alleviates allergies,Yes,183.79,Over the Counter,Senior
+Atorvastatin,Fever,Syrup,Statin,Not Required,Alleviates allergies,Yes,16.54,Over the Counter,Senior
+Lisinopril,Blood Pressure,Cream,ACE inhibitor,Not Required,Used for treating infections,Yes,125.59,Controlled Substance,Child
+Paracetamol,Diabetes,Inhaler,ACE inhibitor,Required,Used for treating infections,No,459.19,Prescription,Adult
+Amoxicillin,Asthma,Cream,Proton Pump Inhibitor,Required,Controls blood pressure,Yes,306.43,Prescription,Senior
+Amoxicillin,Cholesterol,Tablet,Statin,Required,Controls blood pressure,No,307.43,Prescription,Adult
+Ibuprofen,Diabetes,Cream,Analgesic,Required,Controls blood pressure,Yes,156.82,Over the Counter,Child
+Atorvastatin,Infection,Injection,Antipyretic,Required,Reduces fever,No,362.06,Over the Counter,Senior
+Paracetamol,Allergy,Tablet,Proton Pump Inhibitor,Required,Controls blood pressure,Yes,433.77,Over the Counter,Senior
+Amoxicillin,Cholesterol,Inhaler,Statin,Not Required,Controls blood pressure,No,334.71,Over the Counter,Adult
+Atorvastatin,Acidity,Gel,Antibiotic,Not Required,Lowers cholesterol,Yes,333.84,Over the Counter,Senior
+Cetirizine,Allergy,Cream,Statin,Required,Used for pain relief,No,483.68,Controlled Substance,Adult
+Lisinopril,Acidity,Gel,Antihistamine,Not Required,Alleviates allergies,No,396.86,Controlled Substance,Adult
+Omeprazole,Fever,Tablet,Statin,Required,Reduces fever,Yes,98.16,Over the Counter,Senior
+Aspirin,Diabetes,Injection,Statin,Not Required,Alleviates allergies,Yes,56.27,Over the Counter,Adult
+Cetirizine,Acidity,Inhaler,Antihistamine,Not Required,Lowers cholesterol,Yes,366.83,Controlled Substance,Senior
+Lisinopril,Infection,Injection,ACE inhibitor,Not Required,Used for pain relief,No,425.71,Controlled Substance,Senior
+Paracetamol,Fever,Drops,ACE inhibitor,Not Required,Controls blood pressure,Yes,120.98,Prescription,Senior
+Ibuprofen,Asthma,Syrup,Antihistamine,Not Required,Reduces fever,Yes,369.58,Over the Counter,Senior
+Omeprazole,Allergy,Gel,Statin,Not Required,Reduces fever,No,119.42,Prescription,Senior
+Lisinopril,Infection,Drops,Antihistamine,Not Required,Reduces fever,No,50.98,Prescription,Senior
+Omeprazole,Acidity,Inhaler,Statin,Not Required,Lowers cholesterol,No,146.32,Controlled Substance,Senior
+Lisinopril,Diabetes,Capsule,Antipyretic,Required,Used for treating infections,Yes,216.88,Controlled Substance,Child
+Cetirizine,Infection,Tablet,ACE inhibitor,Not Required,Used for pain relief,No,493.41,Over the Counter,Child
+Omeprazole,Pain,Capsule,Antibiotic,Not Required,Reduces fever,Yes,229.34,Prescription,Senior
+Aspirin,Diabetes,Tablet,ACE inhibitor,Not Required,Controls blood pressure,Yes,108.51,Over the Counter,Adult
+Cetirizine,Fever,Inhaler,Antihistamine,Not Required,Lowers cholesterol,Yes,250.16,Over the Counter,Senior
+Aspirin,Fever,Injection,ACE inhibitor,Not Required,Controls blood pressure,Yes,281.45,Prescription,Child
+Simvastatin,Blood Pressure,Injection,Proton Pump Inhibitor,Required,Reduces fever,No,221.0,Over the Counter,Child
+Paracetamol,Heart Disease,Capsule,Antihistamine,Required,Lowers cholesterol,No,350.38,Controlled Substance,Adult
+Ibuprofen,Cholesterol,Gel,ACE inhibitor,Required,Alleviates allergies,Yes,67.41,Prescription,Senior
+Metformin,Cholesterol,Syrup,Antibiotic,Required,Used for pain relief,Yes,103.36,Over the Counter,Child
+Aspirin,Cholesterol,Capsule,Statin,Required,Used for pain relief,Yes,379.31,Prescription,Adult
+Cetirizine,Diabetes,Gel,ACE inhibitor,Not Required,Used for pain relief,No,194.83,Over the Counter,Child
+Ibuprofen,Infection,Capsule,Proton Pump Inhibitor,Not Required,Used for pain relief,No,62.24,Controlled Substance,Child
+Omeprazole,Fever,Capsule,Antipyretic,Required,Used for pain relief,Yes,317.35,Prescription,Adult
+Paracetamol,Cholesterol,Syrup,Analgesic,Required,Used for pain relief,Yes,432.82,Over the Counter,Senior
+Paracetamol,Cholesterol,Inhaler,Antibiotic,Not Required,Reduces fever,No,203.34,Controlled Substance,Senior
+Aspirin,Pain,Cream,Antipyretic,Not Required,Alleviates allergies,Yes,246.96,Controlled Substance,Child
+Amoxicillin,Blood Pressure,Cream,ACE inhibitor,Not Required,Lowers cholesterol,Yes,308.95,Over the Counter,Senior
+Ibuprofen,Acidity,Injection,ACE inhibitor,Required,Used for treating infections,Yes,337.13,Controlled Substance,Senior
+Amoxicillin,Pain,Gel,Antihistamine,Required,Alleviates allergies,No,275.27,Controlled Substance,Child
+Atorvastatin,Cholesterol,Gel,Analgesic,Required,Alleviates allergies,Yes,289.07,Prescription,Senior
+Omeprazole,Fever,Capsule,ACE inhibitor,Not Required,Reduces fever,Yes,94.22,Over the Counter,Child
+Amoxicillin,Blood Pressure,Syrup,Antihistamine,Required,Controls blood pressure,No,327.05,Controlled Substance,Adult
+Ibuprofen,Diabetes,Injection,Antipyretic,Not Required,Used for pain relief,No,120.9,Prescription,Child
+Omeprazole,Heart Disease,Capsule,Antibiotic,Not Required,Alleviates allergies,Yes,132.94,Controlled Substance,Senior
+Amoxicillin,Asthma,Capsule,Analgesic,Required,Alleviates allergies,No,98.13,Prescription,Child
+Simvastatin,Diabetes,Inhaler,Statin,Required,Lowers cholesterol,No,310.86,Controlled Substance,Senior
+Atorvastatin,Diabetes,Inhaler,Antihistamine,Required,Alleviates allergies,Yes,296.47,Prescription,Senior
+Omeprazole,Cholesterol,Gel,ACE inhibitor,Not Required,Alleviates allergies,Yes,31.58,Over the Counter,Child
+Ibuprofen,Blood Pressure,Injection,Analgesic,Not Required,Lowers cholesterol,Yes,395.62,Prescription,Child
+Amoxicillin,Diabetes,Injection,Analgesic,Required,Used for treating infections,Yes,365.2,Controlled Substance,Adult
+Amoxicillin,Infection,Capsule,ACE inhibitor,Not Required,Used for treating infections,No,481.51,Prescription,Child
+Paracetamol,Fever,Gel,Antipyretic,Not Required,Controls blood pressure,No,384.98,Prescription,Child
+Omeprazole,Asthma,Drops,Proton Pump Inhibitor,Not Required,Reduces fever,No,312.28,Controlled Substance,Senior
+Atorvastatin,Pain,Inhaler,Antibiotic,Required,Controls blood pressure,No,423.51,Controlled Substance,Senior
+Ibuprofen,Blood Pressure,Gel,ACE inhibitor,Required,Used for pain relief,No,236.46,Over the Counter,Adult
+Cetirizine,Infection,Drops,Statin,Required,Lowers cholesterol,No,210.18,Over the Counter,Child
+Paracetamol,Cholesterol,Tablet,ACE inhibitor,Not Required,Used for pain relief,Yes,314.56,Prescription,Child
+Amoxicillin,Asthma,Syrup,Analgesic,Required,Used for pain relief,No,463.32,Controlled Substance,Child
+Atorvastatin,Blood Pressure,Injection,Statin,Required,Reduces fever,Yes,120.46,Prescription,Senior
+Simvastatin,Diabetes,Capsule,ACE inhibitor,Not Required,Used for treating infections,Yes,15.26,Prescription,Senior
+Omeprazole,Cholesterol,Drops,Proton Pump Inhibitor,Not Required,Used for pain relief,No,405.11,Prescription,Adult
+Atorvastatin,Pain,Capsule,Statin,Required,Used for treating infections,Yes,95.26,Over the Counter,Adult
+Metformin,Infection,Gel,Statin,Not Required,Alleviates allergies,Yes,31.45,Over the Counter,Adult
+Metformin,Asthma,Injection,Antibiotic,Not Required,Used for treating infections,No,97.59,Controlled Substance,Adult
+Lisinopril,Cholesterol,Gel,Statin,Required,Used for treating infections,Yes,415.58,Over the Counter,Senior
+Ibuprofen,Pain,Tablet,Analgesic,Required,Used for pain relief,Yes,47.85,Controlled Substance,Adult
+Lisinopril,Diabetes,Drops,Antihistamine,Required,Used for treating infections,No,473.94,Controlled Substance,Adult
+Simvastatin,Cholesterol,Capsule,ACE inhibitor,Required,Controls blood pressure,Yes,412.55,Controlled Substance,Adult
+Cetirizine,Infection,Injection,Antipyretic,Required,Controls blood pressure,Yes,411.95,Controlled Substance,Child
+Metformin,Acidity,Capsule,ACE inhibitor,Required,Reduces fever,No,401.35,Prescription,Child
+Paracetamol,Fever,Gel,Analgesic,Required,Alleviates allergies,Yes,93.9,Over the Counter,Senior
+Atorvastatin,Fever,Gel,Statin,Not Required,Used for treating infections,No,398.51,Controlled Substance,Senior
+Ibuprofen,Diabetes,Gel,Antihistamine,Required,Reduces fever,No,404.0,Prescription,Senior
+Lisinopril,Infection,Tablet,ACE inhibitor,Not Required,Alleviates allergies,Yes,358.66,Controlled Substance,Senior
+Metformin,Acidity,Cream,Antibiotic,Required,Reduces fever,Yes,152.84,Over the Counter,Adult
+Omeprazole,Asthma,Tablet,ACE inhibitor,Not Required,Lowers cholesterol,No,445.59,Prescription,Child
+Metformin,Diabetes,Inhaler,Antibiotic,Not Required,Used for pain relief,Yes,12.29,Over the Counter,Adult
+Metformin,Asthma,Gel,Antihistamine,Required,Used for treating infections,No,457.18,Prescription,Adult
+Metformin,Cholesterol,Inhaler,Proton Pump Inhibitor,Required,Alleviates allergies,No,319.08,Prescription,Senior
+Atorvastatin,Allergy,Tablet,Antihistamine,Required,Lowers cholesterol,No,381.58,Over the Counter,Adult
+Metformin,Asthma,Drops,Antibiotic,Not Required,Used for pain relief,No,175.88,Prescription,Adult
+Aspirin,Infection,Gel,Statin,Required,Controls blood pressure,Yes,65.62,Prescription,Child
+Amoxicillin,Infection,Injection,Analgesic,Not Required,Controls blood pressure,No,201.29,Controlled Substance,Adult
+Paracetamol,Infection,Gel,ACE inhibitor,Required,Used for treating infections,No,316.46,Controlled Substance,Senior
+Amoxicillin,Acidity,Cream,Antipyretic,Not Required,Alleviates allergies,Yes,93.55,Controlled Substance,Senior
+Simvastatin,Allergy,Capsule,Analgesic,Required,Alleviates allergies,No,374.52,Over the Counter,Adult
+Amoxicillin,Infection,Inhaler,Antipyretic,Required,Used for treating infections,No,278.01,Prescription,Child
+Ibuprofen,Asthma,Capsule,Analgesic,Not Required,Used for pain relief,Yes,415.14,Prescription,Adult
+Metformin,Infection,Injection,Antibiotic,Required,Alleviates allergies,No,133.64,Controlled Substance,Child
+Atorvastatin,Heart Disease,Cream,Proton Pump Inhibitor,Required,Used for treating infections,Yes,437.76,Controlled Substance,Child
+Aspirin,Fever,Drops,Antihistamine,Required,Used for pain relief,Yes,109.12,Over the Counter,Senior
+Atorvastatin,Asthma,Inhaler,Antibiotic,Required,Lowers cholesterol,Yes,215.66,Over the Counter,Senior
+Lisinopril,Fever,Gel,ACE inhibitor,Required,Alleviates allergies,No,53.1,Over the Counter,Child
+Simvastatin,Cholesterol,Capsule,Statin,Not Required,Lowers cholesterol,No,66.79,Over the Counter,Adult
+Amoxicillin,Acidity,Gel,Proton Pump Inhibitor,Not Required,Controls blood pressure,No,142.57,Prescription,Adult
+Aspirin,Asthma,Cream,Antipyretic,Required,Used for treating infections,No,426.67,Controlled Substance,Senior
+Aspirin,Cholesterol,Syrup,Antihistamine,Required,Controls blood pressure,No,271.48,Over the Counter,Adult
+Metformin,Diabetes,Inhaler,Antipyretic,Not Required,Used for treating infections,Yes,326.38,Over the Counter,Child
+Lisinopril,Allergy,Gel,Analgesic,Not Required,Reduces fever,No,480.15,Controlled Substance,Adult
+Amoxicillin,Fever,Gel,Antibiotic,Not Required,Used for pain relief,Yes,484.29,Over the Counter,Senior
+Lisinopril,Infection,Drops,Antipyretic,Required,Alleviates allergies,No,454.08,Over the Counter,Child
+Metformin,Blood Pressure,Capsule,Statin,Not Required,Reduces fever,Yes,174.42,Over the Counter,Child
+Paracetamol,Fever,Tablet,Statin,Required,Controls blood pressure,No,326.02,Controlled Substance,Senior
+Paracetamol,Diabetes,Syrup,ACE inhibitor,Not Required,Alleviates allergies,Yes,31.49,Over the Counter,Child
+Aspirin,Fever,Injection,Antihistamine,Required,Controls blood pressure,No,443.56,Prescription,Senior
+Metformin,Acidity,Cream,Antibiotic,Not Required,Used for treating infections,Yes,218.97,Controlled Substance,Child
+Atorvastatin,Asthma,Cream,Antibiotic,Required,Controls blood pressure,No,98.02,Over the Counter,Child
+Cetirizine,Blood Pressure,Drops,Statin,Required,Alleviates allergies,Yes,122.43,Controlled Substance,Adult
+Cetirizine,Asthma,Tablet,ACE inhibitor,Required,Reduces fever,No,208.0,Over the Counter,Adult
+Atorvastatin,Heart Disease,Tablet,Antipyretic,Required,Lowers cholesterol,No,28.33,Controlled Substance,Adult
+Paracetamol,Pain,Injection,Analgesic,Not Required,Used for treating infections,Yes,320.47,Controlled Substance,Adult
+Paracetamol,Asthma,Cream,Antipyretic,Required,Used for treating infections,Yes,480.55,Prescription,Senior
+Paracetamol,Acidity,Tablet,Proton Pump Inhibitor,Not Required,Reduces fever,No,52.49,Prescription,Senior
+Lisinopril,Acidity,Capsule,Statin,Not Required,Controls blood pressure,Yes,496.44,Prescription,Senior
+Simvastatin,Pain,Syrup,Analgesic,Required,Reduces fever,No,457.66,Over the Counter,Child
+Omeprazole,Asthma,Injection,Antibiotic,Not Required,Lowers cholesterol,Yes,242.52,Prescription,Adult
+Lisinopril,Blood Pressure,Drops,Antihistamine,Not Required,Lowers cholesterol,No,445.35,Over the Counter,Senior
+Atorvastatin,Fever,Tablet,Antibiotic,Not Required,Controls blood pressure,No,205.92,Over the Counter,Child
+Cetirizine,Diabetes,Gel,Antipyretic,Required,Used for pain relief,No,362.02,Prescription,Child
+Amoxicillin,Heart Disease,Injection,Analgesic,Not Required,Controls blood pressure,Yes,361.55,Prescription,Senior
+Atorvastatin,Infection,Gel,Statin,Required,Used for treating infections,Yes,289.07,Over the Counter,Senior
+Lisinopril,Blood Pressure,Cream,Proton Pump Inhibitor,Required,Alleviates allergies,No,130.61,Prescription,Senior
+Cetirizine,Cholesterol,Inhaler,Antibiotic,Not Required,Alleviates allergies,Yes,27.95,Over the Counter,Senior
+Metformin,Infection,Tablet,Antibiotic,Required,Lowers cholesterol,Yes,375.33,Prescription,Child
+Cetirizine,Blood Pressure,Injection,Proton Pump Inhibitor,Not Required,Used for pain relief,No,475.97,Over the Counter,Child
+Atorvastatin,Pain,Drops,Antipyretic,Required,Used for pain relief,Yes,215.71,Over the Counter,Adult
+Amoxicillin,Allergy,Injection,Statin,Required,Controls blood pressure,Yes,442.55,Prescription,Senior
+Lisinopril,Heart Disease,Injection,Antihistamine,Required,Used for treating infections,No,323.36,Controlled Substance,Adult
+Simvastatin,Cholesterol,Injection,Analgesic,Required,Used for pain relief,No,493.0,Over the Counter,Adult
+Paracetamol,Allergy,Injection,Antipyretic,Required,Reduces fever,No,185.81,Over the Counter,Child
+Amoxicillin,Heart Disease,Injection,Analgesic,Required,Controls blood pressure,Yes,380.65,Prescription,Child
+Aspirin,Allergy,Injection,Antipyretic,Not Required,Controls blood pressure,No,324.16,Controlled Substance,Child
+Atorvastatin,Diabetes,Syrup,ACE inhibitor,Not Required,Used for treating infections,Yes,322.91,Controlled Substance,Child
+Atorvastatin,Heart Disease,Gel,Antipyretic,Not Required,Used for pain relief,No,138.54,Controlled Substance,Child
+Cetirizine,Pain,Drops,Statin,Not Required,Lowers cholesterol,No,497.23,Over the Counter,Senior
+Paracetamol,Infection,Cream,Proton Pump Inhibitor,Not Required,Used for treating infections,No,446.21,Prescription,Child
+Metformin,Infection,Tablet,Analgesic,Required,Lowers cholesterol,No,372.98,Prescription,Adult
+Ibuprofen,Infection,Drops,ACE inhibitor,Not Required,Used for pain relief,Yes,55.73,Prescription,Child
+Lisinopril,Cholesterol,Gel,Statin,Not Required,Reduces fever,Yes,280.27,Controlled Substance,Adult
+Simvastatin,Pain,Injection,Antibiotic,Not Required,Alleviates allergies,Yes,175.43,Controlled Substance,Child
+Paracetamol,Acidity,Drops,Antihistamine,Not Required,Used for treating infections,No,95.74,Prescription,Child
+Ibuprofen,Infection,Drops,Antihistamine,Not Required,Used for pain relief,No,449.65,Over the Counter,Child
+Aspirin,Heart Disease,Gel,Antibiotic,Not Required,Alleviates allergies,Yes,19.97,Over the Counter,Senior
+Paracetamol,Blood Pressure,Injection,Antibiotic,Not Required,Used for pain relief,No,168.43,Prescription,Senior
+Atorvastatin,Infection,Capsule,ACE inhibitor,Required,Reduces fever,Yes,80.4,Over the Counter,Senior
+Lisinopril,Asthma,Gel,Proton Pump Inhibitor,Required,Lowers cholesterol,Yes,426.15,Over the Counter,Senior
+Amoxicillin,Infection,Syrup,Antibiotic,Not Required,Used for pain relief,No,360.74,Prescription,Child
+Paracetamol,Asthma,Capsule,Analgesic,Not Required,Alleviates allergies,Yes,117.9,Over the Counter,Senior
+Paracetamol,Acidity,Inhaler,Antipyretic,Not Required,Alleviates allergies,Yes,187.45,Over the Counter,Child
+Aspirin,Blood Pressure,Capsule,Proton Pump Inhibitor,Not Required,Alleviates allergies,Yes,40.33,Over the Counter,Senior
+Amoxicillin,Cholesterol,Inhaler,Antibiotic,Required,Alleviates allergies,No,357.72,Controlled Substance,Senior
+Omeprazole,Blood Pressure,Capsule,Antibiotic,Required,Lowers cholesterol,No,203.98,Over the Counter,Child
+Simvastatin,Fever,Capsule,ACE inhibitor,Required,Reduces fever,No,115.78,Prescription,Senior
+Simvastatin,Diabetes,Capsule,Analgesic,Required,Alleviates allergies,No,491.18,Prescription,Adult
+Amoxicillin,Asthma,Gel,Antihistamine,Required,Used for treating infections,No,257.56,Over the Counter,Senior
+Omeprazole,Asthma,Cream,Antibiotic,Required,Reduces fever,Yes,338.65,Controlled Substance,Adult
+Lisinopril,Blood Pressure,Tablet,Antihistamine,Not Required,Controls blood pressure,No,282.76,Controlled Substance,Adult
+Ibuprofen,Heart Disease,Drops,Antipyretic,Required,Reduces fever,Yes,487.07,Over the Counter,Senior
+Lisinopril,Diabetes,Injection,Statin,Not Required,Alleviates allergies,Yes,454.21,Over the Counter,Senior
+Atorvastatin,Infection,Capsule,Antipyretic,Required,Reduces fever,No,299.6,Controlled Substance,Child
+Amoxicillin,Infection,Tablet,Antihistamine,Required,Controls blood pressure,No,280.6,Prescription,Adult
+Metformin,Asthma,Drops,Proton Pump Inhibitor,Not Required,Reduces fever,Yes,304.72,Controlled Substance,Senior
+Metformin,Infection,Cream,Statin,Required,Used for treating infections,Yes,490.53,Over the Counter,Senior
+Lisinopril,Blood Pressure,Drops,Antihistamine,Required,Lowers cholesterol,No,319.11,Over the Counter,Child
+Lisinopril,Blood Pressure,Drops,Antipyretic,Required,Reduces fever,Yes,86.76,Controlled Substance,Adult
+Atorvastatin,Cholesterol,Syrup,Antibiotic,Required,Alleviates allergies,Yes,384.14,Controlled Substance,Child
+Simvastatin,Cholesterol,Gel,Antipyretic,Required,Used for pain relief,No,294.18,Over the Counter,Adult
+Simvastatin,Infection,Syrup,Statin,Not Required,Used for treating infections,Yes,178.35,Controlled Substance,Senior
+Metformin,Fever,Gel,Antihistamine,Not Required,Lowers cholesterol,No,21.22,Prescription,Child
+Amoxicillin,Diabetes,Cream,ACE inhibitor,Required,Used for treating infections,No,91.04,Controlled Substance,Child
+Atorvastatin,Infection,Drops,ACE inhibitor,Not Required,Controls blood pressure,No,483.04,Over the Counter,Senior
+Paracetamol,Pain,Capsule,Analgesic,Not Required,Used for treating infections,Yes,331.25,Controlled Substance,Child
+Omeprazole,Fever,Inhaler,ACE inhibitor,Not Required,Lowers cholesterol,Yes,14.31,Prescription,Senior
+Ibuprofen,Allergy,Capsule,Antibiotic,Not Required,Used for pain relief,Yes,465.3,Over the Counter,Child
+Ibuprofen,Allergy,Syrup,Antibiotic,Required,Controls blood pressure,Yes,97.39,Controlled Substance,Child
+Paracetamol,Heart Disease,Syrup,Antihistamine,Required,Reduces fever,Yes,292.87,Controlled Substance,Adult
+Metformin,Blood Pressure,Tablet,ACE inhibitor,Not Required,Lowers cholesterol,Yes,111.78,Prescription,Child
+Lisinopril,Diabetes,Gel,Statin,Required,Used for pain relief,No,421.22,Prescription,Adult
+Simvastatin,Fever,Capsule,Antihistamine,Required,Reduces fever,No,241.39,Prescription,Senior
+Metformin,Pain,Syrup,ACE inhibitor,Required,Used for pain relief,Yes,91.09,Controlled Substance,Senior
+Aspirin,Infection,Injection,Statin,Not Required,Used for pain relief,No,214.31,Prescription,Adult
+Paracetamol,Infection,Inhaler,ACE inhibitor,Not Required,Used for pain relief,No,317.65,Prescription,Child
+Paracetamol,Blood Pressure,Injection,Antipyretic,Not Required,Controls blood pressure,No,344.73,Controlled Substance,Senior
+Amoxicillin,Pain,Tablet,ACE inhibitor,Required,Used for pain relief,Yes,45.92,Over the Counter,Senior
+Cetirizine,Blood Pressure,Inhaler,Antibiotic,Not Required,Used for treating infections,No,214.44,Over the Counter,Child
+Omeprazole,Blood Pressure,Syrup,Antibiotic,Required,Lowers cholesterol,Yes,487.91,Controlled Substance,Senior
+Metformin,Asthma,Capsule,ACE inhibitor,Required,Controls blood pressure,Yes,238.42,Over the Counter,Adult
+Lisinopril,Fever,Injection,Statin,Not Required,Used for treating infections,No,12.52,Controlled Substance,Adult
+Lisinopril,Infection,Injection,Proton Pump Inhibitor,Not Required,Reduces fever,Yes,291.17,Prescription,Child
+Simvastatin,Asthma,Capsule,Statin,Required,Used for treating infections,Yes,401.49,Controlled Substance,Adult
+Cetirizine,Blood Pressure,Cream,Antibiotic,Required,Alleviates allergies,No,155.29,Prescription,Adult
+Aspirin,Blood Pressure,Syrup,Statin,Required,Used for treating infections,No,199.95,Prescription,Senior
+Simvastatin,Pain,Capsule,Antipyretic,Not Required,Alleviates allergies,Yes,451.26,Controlled Substance,Child
+Metformin,Fever,Capsule,Analgesic,Required,Reduces fever,No,359.91,Prescription,Senior
+Lisinopril,Cholesterol,Cream,Statin,Required,Used for treating infections,Yes,75.83,Controlled Substance,Adult
+Amoxicillin,Blood Pressure,Syrup,Antipyretic,Required,Reduces fever,Yes,384.23,Over the Counter,Child
+Omeprazole,Diabetes,Injection,Antibiotic,Not Required,Used for treating infections,No,196.3,Controlled Substance,Adult
+Ibuprofen,Asthma,Drops,Antihistamine,Required,Controls blood pressure,Yes,391.08,Over the Counter,Adult
+Aspirin,Allergy,Injection,Statin,Required,Reduces fever,No,450.75,Prescription,Senior
+Amoxicillin,Heart Disease,Cream,ACE inhibitor,Required,Lowers cholesterol,No,483.95,Over the Counter,Adult
+Ibuprofen,Cholesterol,Drops,Statin,Required,Lowers cholesterol,Yes,206.5,Controlled Substance,Senior
+Omeprazole,Infection,Cream,Analgesic,Not Required,Used for treating infections,Yes,254.23,Controlled Substance,Child
+Omeprazole,Fever,Cream,Statin,Not Required,Reduces fever,No,444.35,Over the Counter,Child
+Omeprazole,Pain,Drops,Antipyretic,Not Required,Alleviates allergies,No,183.62,Prescription,Senior
+Ibuprofen,Allergy,Syrup,Statin,Required,Alleviates allergies,Yes,129.47,Prescription,Senior
+Cetirizine,Allergy,Capsule,Statin,Required,Reduces fever,No,476.31,Prescription,Senior
+Simvastatin,Blood Pressure,Drops,Antibiotic,Required,Lowers cholesterol,No,101.05,Prescription,Child
+Aspirin,Heart Disease,Inhaler,Antihistamine,Required,Controls blood pressure,Yes,402.38,Controlled Substance,Child
+Atorvastatin,Acidity,Capsule,Analgesic,Not Required,Lowers cholesterol,Yes,473.86,Controlled Substance,Adult
+Ibuprofen,Cholesterol,Gel,ACE inhibitor,Required,Used for treating infections,No,133.26,Prescription,Senior
+Cetirizine,Infection,Inhaler,Analgesic,Required,Used for pain relief,No,193.0,Over the Counter,Adult
+Metformin,Heart Disease,Inhaler,Proton Pump Inhibitor,Not Required,Alleviates allergies,No,74.2,Controlled Substance,Adult
+Paracetamol,Allergy,Capsule,Antibiotic,Required,Alleviates allergies,Yes,65.15,Controlled Substance,Senior
+Lisinopril,Asthma,Capsule,Antibiotic,Required,Lowers cholesterol,No,189.39,Prescription,Senior
+Cetirizine,Pain,Tablet,Analgesic,Not Required,Reduces fever,Yes,94.81,Controlled Substance,Senior
+Atorvastatin,Allergy,Inhaler,Proton Pump Inhibitor,Required,Lowers cholesterol,No,86.0,Over the Counter,Senior
+Paracetamol,Blood Pressure,Cream,Statin,Not Required,Used for treating infections,No,90.34,Controlled Substance,Senior
+Cetirizine,Acidity,Syrup,Antipyretic,Required,Controls blood pressure,Yes,378.85,Prescription,Child
+Amoxicillin,Acidity,Gel,ACE inhibitor,Not Required,Reduces fever,No,300.42,Controlled Substance,Child
+Simvastatin,Acidity,Injection,ACE inhibitor,Not Required,Alleviates allergies,Yes,457.1,Over the Counter,Adult
+Simvastatin,Acidity,Inhaler,Analgesic,Not Required,Used for treating infections,Yes,213.45,Prescription,Adult
+Aspirin,Diabetes,Syrup,Analgesic,Required,Used for treating infections,No,284.14,Prescription,Adult
+Simvastatin,Fever,Gel,Analgesic,Not Required,Controls blood pressure,No,110.66,Prescription,Child
+Ibuprofen,Allergy,Gel,Analgesic,Required,Alleviates allergies,No,458.87,Over the Counter,Child
+Omeprazole,Acidity,Injection,Statin,Not Required,Reduces fever,No,61.25,Prescription,Senior
+Paracetamol,Cholesterol,Injection,Antipyretic,Required,Used for treating infections,Yes,137.36,Over the Counter,Adult
+Amoxicillin,Blood Pressure,Cream,Antihistamine,Required,Controls blood pressure,No,314.51,Over the Counter,Adult
+Paracetamol,Heart Disease,Gel,Antipyretic,Not Required,Controls blood pressure,No,24.37,Over the Counter,Child
+Omeprazole,Fever,Syrup,Antihistamine,Not Required,Lowers cholesterol,No,218.72,Controlled Substance,Child
+Cetirizine,Heart Disease,Injection,ACE inhibitor,Not Required,Used for pain relief,No,59.82,Over the Counter,Adult
+Atorvastatin,Asthma,Inhaler,ACE inhibitor,Required,Used for treating infections,No,90.06,Over the Counter,Adult
+Paracetamol,Asthma,Syrup,ACE inhibitor,Not Required,Reduces fever,No,138.06,Controlled Substance,Adult
+Lisinopril,Asthma,Capsule,Proton Pump Inhibitor,Not Required,Reduces fever,No,299.29,Over the Counter,Senior
+Lisinopril,Pain,Syrup,ACE inhibitor,Required,Alleviates allergies,No,257.74,Controlled Substance,Senior
+Lisinopril,Pain,Tablet,Statin,Not Required,Lowers cholesterol,No,56.19,Controlled Substance,Adult
+Metformin,Cholesterol,Drops,Antipyretic,Required,Lowers cholesterol,Yes,23.0,Prescription,Senior
+Atorvastatin,Diabetes,Cream,Proton Pump Inhibitor,Required,Used for pain relief,No,63.65,Controlled Substance,Child
+Paracetamol,Pain,Tablet,Antihistamine,Required,Alleviates allergies,No,25.9,Over the Counter,Child
+Amoxicillin,Cholesterol,Capsule,ACE inhibitor,Required,Used for pain relief,No,440.94,Controlled Substance,Child
+Aspirin,Allergy,Capsule,Analgesic,Required,Lowers cholesterol,Yes,342.8,Over the Counter,Child
+Ibuprofen,Heart Disease,Drops,Antibiotic,Not Required,Alleviates allergies,Yes,25.96,Over the Counter,Adult
+Atorvastatin,Allergy,Cream,Proton Pump Inhibitor,Not Required,Used for treating infections,No,416.92,Controlled Substance,Senior
+Aspirin,Infection,Drops,ACE inhibitor,Required,Alleviates allergies,Yes,89.29,Controlled Substance,Senior
+Omeprazole,Allergy,Cream,Antibiotic,Required,Used for pain relief,Yes,262.54,Over the Counter,Adult
+Atorvastatin,Acidity,Inhaler,ACE inhibitor,Not Required,Used for treating infections,No,14.53,Controlled Substance,Senior
+Metformin,Asthma,Injection,Statin,Required,Used for treating infections,No,6.36,Controlled Substance,Senior
+Simvastatin,Pain,Cream,ACE inhibitor,Required,Used for treating infections,Yes,411.06,Prescription,Senior
+Simvastatin,Pain,Injection,Analgesic,Required,Controls blood pressure,No,401.34,Controlled Substance,Child
+Metformin,Asthma,Drops,Antibiotic,Required,Reduces fever,No,8.45,Prescription,Adult
+Omeprazole,Infection,Syrup,Antibiotic,Required,Lowers cholesterol,Yes,227.96,Controlled Substance,Child
+Ibuprofen,Diabetes,Syrup,Antipyretic,Not Required,Alleviates allergies,Yes,8.21,Prescription,Adult
+Metformin,Pain,Cream,ACE inhibitor,Required,Used for pain relief,No,63.1,Over the Counter,Senior
+Omeprazole,Pain,Gel,Antihistamine,Required,Lowers cholesterol,No,269.56,Over the Counter,Child
+Cetirizine,Blood Pressure,Injection,Antipyretic,Required,Alleviates allergies,No,381.98,Prescription,Child
+Metformin,Diabetes,Tablet,Analgesic,Required,Alleviates allergies,No,21.01,Controlled Substance,Adult
+Cetirizine,Asthma,Cream,Proton Pump Inhibitor,Not Required,Controls blood pressure,No,94.56,Controlled Substance,Child
+Aspirin,Blood Pressure,Capsule,Antipyretic,Required,Used for treating infections,No,299.83,Prescription,Adult
+Amoxicillin,Acidity,Cream,Analgesic,Required,Alleviates allergies,No,33.91,Controlled Substance,Senior
+Atorvastatin,Fever,Cream,Antibiotic,Not Required,Lowers cholesterol,Yes,16.25,Over the Counter,Adult
+Amoxicillin,Allergy,Capsule,Antihistamine,Required,Alleviates allergies,No,47.51,Controlled Substance,Senior
+Paracetamol,Allergy,Syrup,Antibiotic,Required,Used for pain relief,No,310.73,Prescription,Senior
+Atorvastatin,Infection,Gel,Antipyretic,Not Required,Used for treating infections,Yes,323.12,Prescription,Senior
+Atorvastatin,Blood Pressure,Syrup,ACE inhibitor,Required,Reduces fever,Yes,74.39,Controlled Substance,Child
+Amoxicillin,Pain,Inhaler,Proton Pump Inhibitor,Not Required,Controls blood pressure,Yes,412.36,Controlled Substance,Adult
+Cetirizine,Blood Pressure,Inhaler,Proton Pump Inhibitor,Required,Lowers cholesterol,No,468.35,Over the Counter,Senior
+Paracetamol,Pain,Gel,Statin,Required,Reduces fever,Yes,480.64,Controlled Substance,Adult
+Lisinopril,Cholesterol,Injection,Antipyretic,Not Required,Controls blood pressure,Yes,472.61,Prescription,Adult
+Ibuprofen,Heart Disease,Syrup,Analgesic,Not Required,Reduces fever,Yes,247.17,Prescription,Adult
+Cetirizine,Cholesterol,Drops,Antipyretic,Required,Reduces fever,No,32.03,Over the Counter,Child
+Cetirizine,Blood Pressure,Gel,ACE inhibitor,Required,Used for pain relief,Yes,366.4,Over the Counter,Senior
+Paracetamol,Cholesterol,Tablet,Proton Pump Inhibitor,Not Required,Used for pain relief,No,385.06,Prescription,Adult
+Amoxicillin,Acidity,Capsule,Antihistamine,Not Required,Reduces fever,Yes,386.73,Over the Counter,Adult
+Omeprazole,Heart Disease,Drops,Analgesic,Not Required,Alleviates allergies,No,168.92,Over the Counter,Senior
+Ibuprofen,Blood Pressure,Capsule,Antipyretic,Not Required,Used for treating infections,No,130.77,Over the Counter,Senior
+Amoxicillin,Acidity,Capsule,Antibiotic,Not Required,Alleviates allergies,Yes,86.64,Controlled Substance,Adult
+Paracetamol,Allergy,Inhaler,Statin,Not Required,Used for treating infections,No,467.31,Controlled Substance,Senior
+Lisinopril,Diabetes,Cream,Statin,Required,Used for pain relief,Yes,31.47,Controlled Substance,Adult
+Simvastatin,Infection,Inhaler,Antipyretic,Not Required,Reduces fever,No,176.43,Over the Counter,Child
+Metformin,Asthma,Cream,Analgesic,Required,Reduces fever,Yes,426.73,Controlled Substance,Child
+Aspirin,Infection,Cream,Analgesic,Required,Lowers cholesterol,Yes,366.44,Over the Counter,Child
+Cetirizine,Cholesterol,Tablet,Proton Pump Inhibitor,Required,Controls blood pressure,Yes,190.93,Controlled Substance,Senior
+Cetirizine,Fever,Capsule,Antipyretic,Required,Reduces fever,Yes,296.75,Controlled Substance,Adult
+Metformin,Acidity,Injection,Antipyretic,Not Required,Used for pain relief,No,26.0,Controlled Substance,Adult
+Paracetamol,Asthma,Injection,Antipyretic,Required,Reduces fever,Yes,403.5,Controlled Substance,Child
+Omeprazole,Diabetes,Syrup,Statin,Required,Reduces fever,No,338.49,Controlled Substance,Child
+Amoxicillin,Heart Disease,Inhaler,ACE inhibitor,Required,Used for pain relief,No,7.95,Over the Counter,Adult
+Atorvastatin,Blood Pressure,Gel,ACE inhibitor,Required,Controls blood pressure,No,78.27,Controlled Substance,Child
+Paracetamol,Acidity,Drops,Proton Pump Inhibitor,Not Required,Lowers cholesterol,Yes,65.96,Over the Counter,Child
+Aspirin,Asthma,Syrup,Statin,Not Required,Lowers cholesterol,No,340.82,Prescription,Adult
+Omeprazole,Pain,Injection,Proton Pump Inhibitor,Not Required,Used for treating infections,No,407.14,Over the Counter,Adult
+Omeprazole,Asthma,Injection,Antihistamine,Not Required,Controls blood pressure,Yes,444.76,Prescription,Senior
+Paracetamol,Infection,Cream,Analgesic,Required,Reduces fever,No,322.1,Controlled Substance,Child
+Amoxicillin,Heart Disease,Drops,Antihistamine,Required,Used for treating infections,No,332.97,Over the Counter,Senior
+Lisinopril,Allergy,Cream,Antibiotic,Required,Lowers cholesterol,No,434.84,Prescription,Child
+Simvastatin,Pain,Capsule,Analgesic,Required,Reduces fever,Yes,382.89,Prescription,Senior
+Paracetamol,Heart Disease,Capsule,Statin,Not Required,Controls blood pressure,Yes,126.83,Over the Counter,Child
+Metformin,Cholesterol,Inhaler,Antibiotic,Required,Reduces fever,No,12.49,Controlled Substance,Adult
+Atorvastatin,Fever,Inhaler,Proton Pump Inhibitor,Not Required,Controls blood pressure,No,349.03,Over the Counter,Child
+Atorvastatin,Cholesterol,Cream,Antihistamine,Not Required,Controls blood pressure,No,173.52,Prescription,Child
+Omeprazole,Diabetes,Inhaler,Statin,Required,Used for pain relief,Yes,428.56,Over the Counter,Child
+Ibuprofen,Asthma,Syrup,Antihistamine,Required,Used for pain relief,No,129.85,Prescription,Adult
+Simvastatin,Asthma,Gel,Statin,Required,Reduces fever,Yes,139.62,Controlled Substance,Child
+Aspirin,Heart Disease,Drops,Antipyretic,Not Required,Lowers cholesterol,No,42.84,Prescription,Senior
+Paracetamol,Pain,Capsule,Proton Pump Inhibitor,Not Required,Used for treating infections,No,324.06,Prescription,Child
+Metformin,Heart Disease,Tablet,Antipyretic,Required,Lowers cholesterol,Yes,190.85,Over the Counter,Child
+Aspirin,Allergy,Tablet,Antihistamine,Required,Alleviates allergies,Yes,186.45,Controlled Substance,Senior
+Omeprazole,Allergy,Drops,ACE inhibitor,Required,Alleviates allergies,No,480.62,Prescription,Adult
+Omeprazole,Heart Disease,Gel,Analgesic,Not Required,Used for pain relief,No,258.71,Controlled Substance,Child
+Omeprazole,Fever,Inhaler,ACE inhibitor,Not Required,Alleviates allergies,Yes,235.38,Prescription,Senior
+Atorvastatin,Diabetes,Injection,ACE inhibitor,Required,Lowers cholesterol,Yes,97.34,Prescription,Senior
+Omeprazole,Cholesterol,Drops,Antibiotic,Required,Lowers cholesterol,Yes,106.06,Prescription,Adult
+Atorvastatin,Fever,Gel,Statin,Required,Reduces fever,No,488.34,Over the Counter,Adult
+Simvastatin,Diabetes,Capsule,Antibiotic,Not Required,Reduces fever,No,71.72,Controlled Substance,Child
+Paracetamol,Acidity,Drops,ACE inhibitor,Not Required,Lowers cholesterol,No,160.62,Controlled Substance,Senior
+Amoxicillin,Blood Pressure,Syrup,Antihistamine,Not Required,Used for treating infections,Yes,134.1,Over the Counter,Child
+Aspirin,Blood Pressure,Injection,Statin,Not Required,Lowers cholesterol,Yes,33.28,Prescription,Adult
+Amoxicillin,Blood Pressure,Tablet,Analgesic,Required,Used for pain relief,No,379.71,Controlled Substance,Adult
+Cetirizine,Cholesterol,Cream,Antihistamine,Required,Alleviates allergies,No,339.59,Over the Counter,Child
+Omeprazole,Diabetes,Drops,Antihistamine,Not Required,Controls blood pressure,Yes,54.12,Controlled Substance,Adult
+Lisinopril,Heart Disease,Injection,Statin,Required,Alleviates allergies,Yes,230.76,Over the Counter,Child
+Omeprazole,Cholesterol,Inhaler,Antihistamine,Required,Reduces fever,Yes,114.9,Prescription,Senior
+Cetirizine,Allergy,Cream,ACE inhibitor,Required,Used for treating infections,No,419.71,Over the Counter,Child
+Ibuprofen,Cholesterol,Tablet,ACE inhibitor,Not Required,Used for pain relief,No,400.27,Over the Counter,Senior
+Atorvastatin,Blood Pressure,Syrup,Proton Pump Inhibitor,Required,Used for treating infections,No,247.0,Controlled Substance,Child
+Simvastatin,Allergy,Inhaler,Analgesic,Required,Used for treating infections,Yes,77.35,Prescription,Adult
+Omeprazole,Acidity,Inhaler,Antipyretic,Required,Reduces fever,No,118.49,Prescription,Child
+Amoxicillin,Pain,Inhaler,Proton Pump Inhibitor,Not Required,Reduces fever,No,37.23,Prescription,Adult
+Omeprazole,Fever,Syrup,Antibiotic,Not Required,Controls blood pressure,Yes,395.23,Controlled Substance,Senior
+Atorvastatin,Pain,Cream,ACE inhibitor,Not Required,Used for treating infections,No,433.17,Prescription,Child
+Paracetamol,Allergy,Cream,Statin,Not Required,Reduces fever,Yes,154.29,Prescription,Child
+Atorvastatin,Allergy,Inhaler,Antihistamine,Required,Lowers cholesterol,No,152.44,Prescription,Child
+Omeprazole,Allergy,Injection,Proton Pump Inhibitor,Not Required,Reduces fever,Yes,481.71,Prescription,Child
+Cetirizine,Infection,Injection,Proton Pump Inhibitor,Required,Used for treating infections,No,341.79,Over the Counter,Child
+Simvastatin,Cholesterol,Cream,Analgesic,Required,Lowers cholesterol,Yes,237.72,Over the Counter,Senior
+Amoxicillin,Asthma,Syrup,ACE inhibitor,Not Required,Reduces fever,Yes,278.37,Prescription,Adult
+Simvastatin,Diabetes,Gel,Antibiotic,Not Required,Controls blood pressure,No,110.56,Controlled Substance,Adult
+Simvastatin,Allergy,Drops,ACE inhibitor,Not Required,Controls blood pressure,Yes,461.07,Controlled Substance,Senior
+Simvastatin,Allergy,Inhaler,Statin,Required,Used for pain relief,No,302.63,Prescription,Adult
+Paracetamol,Cholesterol,Cream,Statin,Not Required,Controls blood pressure,No,196.54,Controlled Substance,Senior
+Lisinopril,Pain,Capsule,Proton Pump Inhibitor,Not Required,Used for pain relief,No,474.44,Controlled Substance,Adult
+Amoxicillin,Infection,Injection,Proton Pump Inhibitor,Required,Lowers cholesterol,No,232.19,Controlled Substance,Adult
+Cetirizine,Pain,Syrup,Statin,Not Required,Reduces fever,Yes,113.13,Controlled Substance,Child
+Omeprazole,Heart Disease,Capsule,Antihistamine,Not Required,Used for pain relief,Yes,293.05,Controlled Substance,Senior
+Paracetamol,Blood Pressure,Capsule,Antibiotic,Not Required,Controls blood pressure,Yes,93.13,Over the Counter,Adult
+Lisinopril,Heart Disease,Drops,Antipyretic,Required,Alleviates allergies,Yes,398.65,Prescription,Senior
+Ibuprofen,Pain,Tablet,Antibiotic,Not Required,Used for pain relief,No,229.39,Over the Counter,Child
+Aspirin,Diabetes,Gel,Antihistamine,Not Required,Lowers cholesterol,Yes,231.02,Controlled Substance,Child
+Atorvastatin,Pain,Injection,Antibiotic,Not Required,Alleviates allergies,Yes,389.37,Controlled Substance,Senior
+Atorvastatin,Infection,Gel,Antibiotic,Not Required,Used for treating infections,Yes,189.94,Prescription,Child
+Metformin,Asthma,Injection,Antipyretic,Required,Lowers cholesterol,No,397.19,Over the Counter,Adult
+Metformin,Asthma,Injection,Antihistamine,Not Required,Controls blood pressure,Yes,416.57,Controlled Substance,Child
+Metformin,Heart Disease,Capsule,ACE inhibitor,Required,Used for treating infections,No,367.23,Controlled Substance,Senior
+Aspirin,Cholesterol,Inhaler,Antibiotic,Required,Controls blood pressure,Yes,372.45,Controlled Substance,Senior
+Omeprazole,Allergy,Capsule,Analgesic,Not Required,Controls blood pressure,No,142.35,Prescription,Adult
